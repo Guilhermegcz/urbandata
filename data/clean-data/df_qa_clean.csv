@@ -1,0 +1,671 @@
+codigo,tipo_imovel,logradouro,bairro,cidade,metragem,quartos,banheiros,vaga,andar,mobilia,aluguel,condominio,iptu,preco_total,numero,cep,longitude,latitude
+893085878,apartamento,Rua Jaguarete, Casa Verde, São Paulo,56,2,2,1,9,Sem mobília,2080,579,125,2811,202,02515-010,-46.6565652,-23.510311
+893085840,apartamento,Rua Jaguarete, Casa Verde, São Paulo,54,2,2,1,11,Sem mobília,2170,578,1250,4026,202,02515-010,-46.6565652,-23.510311
+893085845,apartamento,Rua Jaguarete, Casa Verde, São Paulo,49,2,2,1,8,Sem mobília,2320,517,125,2992,202,02515-010,-46.6565652,-23.510311
+893085857,apartamento,Rua Jaguarete, Casa Verde, São Paulo,56,2,2,1,10,Sem mobília,2170,579,125,2902,202,02515-010,-46.6565652,-23.510311
+893085850,apartamento,Rua Jaguarete, Casa Verde, São Paulo,54,2,2,1,4,Sem mobília,2170,570,125,2893,202,02515-010,-46.6565652,-23.510311
+893085869,apartamento,Rua Jaguarete, Casa Verde, São Paulo,49,2,1,1,5,Sem mobília,2150,517,125,2820,202,02515-010,-46.6565652,-23.510311
+893083699,outro,Rua Caetano Desco, Casa Verde, São Paulo,46,2,1,,,Sem mobília,1400,0,0,1418,166,02523-080,-46.6563618,-23.5059269
+892979073,apartamento,Rua Relíquia, Casa Verde, São Paulo,55,2,1,1,2,Sem mobília,1350,850,106,2324,758,02517-001,-46.6611985,-23.5059854
+892963493,apartamento,Rua Joboatão, Casa Verde, São Paulo,63,2,1,2,4,Sem mobília,1800,580,114,2521,542,02516-010,-46.6589546,-23.506794
+893057581,apartamento,Rua Jaguaretê, Casa Verde, São Paulo,73,3,2,1,4,Sem mobília,1600,682,250,2553,177,02515-010,-46.6564101,-23.510643
+892857192,apartamento,Rua Professor Luciano Prata, Casa Verde, São Paulo,50,1,1,,3,Sem mobília,1300,150,60,1527,23,02510-020,-46.6527534,-23.5144357
+893091382,apartamento,Rua Professor Luciano Prata, Casa Verde, São Paulo,60,1,1,,1,Sem mobília,1500,150,63,1733,23,00251-020,-46.6527511,-23.5142785
+893083746,apartamento,Rua dos Americanos, Barra Funda, São Paulo,65,2,2,2,19,Sem mobília,3300,480,190,4012,185,01138-050,-46.6555486,-23.5253684
+892937775,apartamento,Rua José Gomes Falcão, Barra Funda, São Paulo,160,4,3,2,2,Mobiliado,6000,1200,417,7694,304,01139-010,-46.6612552,-23.5210321
+893039893,apartamento,Alameda Eduardo Prado, Bom Retiro, São Paulo,35,1,1,1,7,Mobiliado,1300,444,0,1761,150,01218-011,-46.6474341,-23.5292421
+893082377,apartamento,Rua Doutor Sérgio Meira, Barra Funda, São Paulo,50,2,2,,16,Sem mobília,2340,650,92,3112,230,01153-010,-46.6563871,-23.5281028
+893088975,apartamento,Rua Anhaia, Bom Retiro, São Paulo,36,1,1,,4,Sem mobília,2600,900,34,3567,871,01130-000,-46.6460582,-23.5228954
+893038902,outro,Avenida Rio Branco, Bom Retiro, São Paulo,35,1,1,1,6,Mobiliado,1310,960,84,2371,1658,01206-001,-46.6468858,-23.5298842
+893088345,apartamento,Rua Cônego Vicente Miguel Marino, Bom Retiro, São Paulo,33,2,1,,6,Sem mobília,1800,315,0,2138,161,01135-020,-46.6499103,-23.5271593
+893084150,apartamento,Alameda Barão de Limeira, Bom Retiro, São Paulo,148,3,3,2,7,Mobiliado,3500,1375,142,5062,1440,01202-002,-46.6510135,-23.5296511
+893090925,apartamento,Rua Doutor Gabriel dos Santos, Santa Cecília, São Paulo,96,2,2,,3,Mobiliado,3000,2780,209,6028,131,01231-011,-46.6581661,-23.5339079
+893089064,apartamento,Rua Doutor Gabriel dos Santos, Santa Cecília, São Paulo,200,3,3,2,13,Sem mobília,5550,1553,459,7633,64,01231-011,-46.658251,-23.533244
+893089830,apartamento,Rua das Perdizes, Barra Funda, São Paulo,81,2,1,,1,Sem mobília,1890,430,0,2344,76,01156-030,-46.6621254,-23.5314963
+893087942,apartamento,Avenida General Olímpio da Silveira, Santa Cecília, São Paulo,113,2,2,,,Sem mobília,3000,500,0,3539,33,01150-001,-46.6570369,-23.5331962
+892827338,apartamento,Rua Conselheiro Brotero, Barra Funda, São Paulo,71,2,2,1,3,Mobiliado,3194,800,112,4130,528,01154-000,-46.6585775,-23.5312422
+892936812,apartamento,Rua Tupi, Santa Cecília, São Paulo,47,1,1,1,7,Mobiliado,2500,810,92,3420,383,01233-000,-46.6613288,-23.5351177
+893079356,apartamento,Rua Doutor Gabriel dos Santos, Santa Cecília, São Paulo,98,3,2,2,3,Sem mobília,3000,1590,325,4954,179,01231-011,-46.6585441,-23.5342643
+893086697,outro,Rua Olímpia de Almeida Prado, Barra Funda, São Paulo,34,1,1,,15,Mobiliado,2450,475,100,3057,27,01151-010,-46.6576961,-23.5318405
+893090143,apartamento,Avenida Francisco Matarazzo, Perdizes, São Paulo,66,2,1,,6,Sem mobília,1970,0,0,1995,,,,
+893090470,apartamento,Rua Minerva, Perdizes, São Paulo,85,2,2,1,7,Mobiliado,4900,1153,53,6169,149,05007-030,-46.6725322,-23.5336781
+893087805,apartamento,Rua Doutor Alfredo de Castro, Barra Funda, São Paulo,60,2,1,1,2,Sem mobília,2700,640,138,3513,112,01155-060,-46.6642343,-23.5288762
+893085606,apartamento,Avenida Thomas Edison, Barra Funda, São Paulo,69,2,2,1,3,Sem mobília,3800,370,0,4219,934,01140-000,-46.6690357,-23.5187611
+893088646,apartamento,Rua Itapicuru, Perdizes, São Paulo,120,3,2,2,11,Sem mobília,4150,900,384,5487,380,05006-000,-46.6675828,-23.5352464
+893084434,apartamento,Rua Tagipuru, Barra Funda, São Paulo,270,4,4,6,13,Sem mobília,6000,3000,917,9994,127,01156-000,-46.6640974,-23.5304642
+893086836,apartamento,Rua Conselheiro Brotero, Barra Funda, São Paulo,80,3,1,,1,Sem mobília,2320,0,121,2471,348,01229-000,-46.6572271,-23.5299336
+893085254,outro,Avenida General Olímpio da Silveira, Barra Funda, São Paulo,50,1,1,,12,Mobiliado,1100,435,0,1549,196,01150-001,-46.6582673,-23.5320716
+893088708,outro,Rua das Palmeiras, Santa Cecília, São Paulo,33,1,1,,5,Mobiliado,2200,670,0,2898,410,01226-011,-46.6525666,-23.5361964
+892967903,apartamento,Rua Cardoso de Almeida, Perdizes, São Paulo,220,3,3,3,13,Sem mobília,5200,2900,633,8804,650,05013-000,-46.6674711,-23.5366607
+892832346,apartamento,Rua Turiassú, Perdizes, São Paulo,84,2,3,2,14,Mobiliado,4900,920,292,6175,507,05005-001,-46.668047,-23.5333734
+893072327,apartamento,Rua Adalberto Kemeny, Barra Funda, São Paulo,70,1,2,,19,Mobiliado,3500,900,25,4470,82,01139-050,-46.675909,-23.5200236
+892980233,apartamento,Avenida Marquês de São Vicente, Barra Funda, São Paulo,70,2,2,2,24,Mobiliado,3700,800,50,4597,2898,05036-040,-46.6751177,-23.5191501
+893072435,apartamento,Rua Joseph Nigri, Água Branca, São Paulo,58,1,2,1,20,Sem mobília,4180,800,167,5200,147,05036-180,-46.6803806,-23.518583
+893091169,apartamento,Rua Joaquim Ferreira, Água Branca, São Paulo,77,3,2,2,,Mobiliado,4010,700,184,4945,55,05033-080,-46.684109,-23.5235153
+893089619,apartamento,Avenida Marquês de São Vicente, Água Branca, São Paulo,100,3,3,2,15,Sem mobília,5000,1000,300,6364,2914,05036-040,-46.6880954,-23.5153202
+893025392,apartamento,Avenida Professor Celestino Bourroul, Casa Verde, São Paulo,58,2,2,1,5,Sem mobília,2233,367,0,2623,684,02710-900,-46.673688,-23.5075977
+893090896,apartamento,Avenida Professora Ida Kolb, Casa Verde, São Paulo,100,3,2,1,2,Sem mobília,2080,1000,63,3170,225,02508-910,-46.6638487,-23.5097784
+893084901,apartamento,Rua Joseph Nigri, Água Branca, São Paulo,60,2,2,1,10,Sem mobília,3570,734,146,4496,147,05036-040,-46.6803806,-23.518583
+893090619,apartamento,Rua Atílio Piffer, Casa Verde, São Paulo,115,3,2,2,23,Mobiliado,5500,900,267,6737,120,02516-000,-46.6603498,-23.5137172
+893084443,apartamento,Avenida Thomás Edison, Barra Funda, São Paulo,100,3,3,2,14,Sem mobília,5000,650,35,5749,934,01140-001,-46.6690357,-23.5187611
+893076308,casa,Rua Zanzibar, Casa Verde, São Paulo,260,4,5,3,,Sem mobília,5000,0,50,5133,1022,02512-010,-46.6630705,-23.5134969
+892994744,apartamento,Rua Visconde Taunay, Bom Retiro, São Paulo,96,2,1,,2,Sem mobília,1600,50,99,1770,396,01132-000,-46.6484722,-23.5236716
+893075532,apartamento,Rua Cônego Vicente Miguel Marino, Bom Retiro, São Paulo,34,1,1,,11,Mobiliado,2000,300,0,2326,59,01135-020,-46.6491006,-23.5271578
+893090431,apartamento,Rua Atílio Piffer, Casa Verde, São Paulo,62,2,2,,5,Sem mobília,3000,654,134,3827,120,02516-000,-46.6603498,-23.5137172
+893080036,apartamento,Rua Doutor Alfredo de Castro, Barra Funda, São Paulo,64,2,2,2,21,Sem mobília,2850,715,113,3715,,,,
+893086283,apartamento,Avenida Ordem E Progresso, Casa Verde, São Paulo,84,3,2,2,2,Sem mobília,1970,621,15,2631,1190,02518-130,-46.6654794,-23.5105444
+893045786,apartamento,Rua Desembargador Guimarães, Perdizes, São Paulo,176,3,5,4,3,Sem mobília,6390,1700,1167,9338,75,05002-050,-46.6740174,-23.5299272
+893053957,apartamento,Rua Torres da Barra, Água Branca, São Paulo,71,2,2,1,18,Sem mobília,2730,470,0,3235,75,05036-040,-46.6868657,-23.5153558
+893087378,apartamento,Rua Francisco Luiz de Souza Júnior, Água Branca, São Paulo,45,2,1,1,16,Sem mobília,2200,350,52,2630,328,05037-001,-46.6880648,-23.5136354
+893087293,apartamento,Rua Torres da Barra, Água Branca, São Paulo,31,1,1,,3,Sem mobília,1800,295,0,2118,207,05037-055,-46.686957,-23.5140863
+893082788,apartamento,Avenida General Olímpio da Silveira, Barra Funda, São Paulo,57,2,1,,6,Sem mobília,1890,499,0,2413,166,01150-000,-46.6579925,-23.5321825
+893089419,apartamento,Rua São Vicente de Paulo, Santa Cecília, São Paulo,95,2,2,1,3,Mobiliado,3450,780,164,4438,650,01229-010,-46.6571077,-23.5400841
+893084963,apartamento,Rua Adolfo Gordo, Bom Retiro, São Paulo,43,1,1,1,2,Sem mobília,1650,687,0,2358,100,01217-020,-46.6493784,-23.5333959
+892956935,apartamento,Rua Doutor Carvalho de Mendonça, Bom Retiro, São Paulo,32,1,1,1,2,Mobiliado,2028,370,0,2424,251,01201-010,-46.6518296,-23.5341724
+892778057,apartamento,Rua Martim Francisco, Santa Cecília, São Paulo,50,2,2,1,11,Mobiliado,2990,739,54,3803,67,01226-001,-46.6512193,-23.5382762
+893080730,apartamento,Rua Doutor Sérgio Meira, Barra Funda, São Paulo,53,2,1,1,9,Mobiliado,2500,600,0,3132,230,01153-010,-46.6563871,-23.5281028
+893090291,outro,Avenida Brigadeiro Luís Antônio, Bela Vista, São Paulo,40,1,1,,16,Mobiliado,2950,615,0,3603,339,01317-000,-46.6377426,-23.5538099
+892959411,apartamento,R. Humaitá, Bela Vista, São Paulo,47,1,1,,12,Mobiliado,1621,335,0,1976,571,01321-010,-46.6420164,-23.5563628
+893002157,outro,Rua Genebra, Bela Vista, São Paulo,25,1,1,,4,Mobiliado,2622,270,67,2993,296,01316-010,-46.6397973,-23.5535635
+892816635,outro,Rua Major Quedinho, Consolação, São Paulo,49,1,2,1,14,Mobiliado,3000,600,0,3639,224,01050-030,-46.6437583,-23.5496911
+893090391,apartamento,Rua Santo Antônio, Bela Vista, São Paulo,53,1,2,1,4,Sem mobília,2850,870,123,3880,722,01314-000,-46.6453382,-23.5516071
+893087445,outro,Rua Asdrúbal do Nascimento, Bela Vista, São Paulo,45,1,1,1,9,Sem mobília,1460,700,0,2179,108,01316-030,-46.6384416,-23.5504745
+893072626,casa,Rua Doutor Ricardo Batista, Bela Vista, São Paulo,220,3,2,1,,Sem mobília,4840,0,71,4992,44,01326-040,-46.6437836,-23.5519273
+893089794,outro,Avenida Nove de Julho, Consolação, São Paulo,43,1,1,,12,Sem mobília,2040,281,12,2359,656,01407-100,-46.6447512,-23.5505195
+893086433,apartamento,Rua João Passalaqua, Bela Vista, São Paulo,12,1,1,1,8,Sem mobília,1400,480,0,1898,140,01326-020,-46.6460127,-23.5540741
+893089505,outro,Rua Frei Caneca, Consolação, São Paulo,32,1,1,1,1,Mobiliado,2670,689,0,3393,277,01307-001,-46.6500833,-23.5522763
+893080792,apartamento,Rua Itararé, Consolação, São Paulo,34,1,1,1,8,Mobiliado,2300,548,10,2888,96,01308-030,-46.653335,-23.5545516
+893090058,casa,Rua Avanhandava, Consolação, São Paulo,528,4,5,8,,Sem mobília,9140,0,1559,10850,568,01306-000,-46.6490247,-23.5524518
+893090188,apartamento,Rua Dona Antônia de Queirós, Consolação, São Paulo,36,1,1,1,4,Sem mobília,2200,524,125,2877,88,01307-011,-46.6522771,-23.5523962
+893090209,apartamento,Rua Barata Ribeiro, Consolação, São Paulo,36,1,1,1,10,Mobiliado,1900,1070,250,3245,205,01308-000,-46.6523556,-23.5564854
+893090217,outro,Rua Barata Ribeiro, Consolação, São Paulo,36,1,1,1,10,Mobiliado,1900,1070,250,3245,205,01308-000,-46.6523556,-23.5564854
+893061027,apartamento,Avenida Nove de Julho, Consolação, São Paulo,78,1,1,,1,Sem mobília,1990,330,0,2346,1030,01312-000,-46.6478675,-23.5525141
+893090184,apartamento,Rua Conselheiro Ramalho, Bela Vista, São Paulo,48,1,1,,11,Sem mobília,3000,400,0,3439,701,01325-001,-46.6440671,-23.5579814
+892802016,apartamento,Rua Conde São Joaquim, Bela Vista, São Paulo,37,1,1,,1,Mobiliado,1397,480,0,1887,392,01320-010,-46.640072,-23.5591256
+893088618,apartamento,R. Monsenhor Passaláqua, Bela Vista, São Paulo,38,1,1,1,2,Mobiliado,3000,540,50,3629,212,01323-010,-46.6421878,-23.5602344
+893090219,apartamento,Rua Conselheiro Ramalho, Bela Vista, São Paulo,45,1,1,,7,Sem mobília,1590,430,0,2041,748,01325-001,-46.644407,-23.5585015
+892958861,apartamento,Rua Maria José, Bela Vista, São Paulo,65,2,1,1,2,Sem mobília,1821,440,274,2548,,,,
+893084930,outro,Rua Genebra, Bela Vista, São Paulo,25,1,1,1,16,Mobiliado,2480,450,30,2992,296,01316-010,-46.6397973,-23.5535635
+893086233,apartamento,Praça Carlos Gomes, Liberdade, São Paulo,78,1,1,,2,Sem mobília,1760,0,100,1883,83,01501-010,-46.6355131,-23.5533365
+892828701,outro,Avenida Brigadeiro Luis Antonio, Bela Vista, São Paulo,40,1,1,1,16,Mobiliado,3100,620,100,3860,323,01317-000,-46.6379902,-23.5535415
+893047213,outro,Rua Major Diogo, Bela Vista, São Paulo,36,1,1,1,7,Mobiliado,2220,505,55,2809,115,01324-001,-46.643237,-23.5521993
+893090502,apartamento,Avenida Paulista, Bela Vista, São Paulo,80,2,3,1,9,Mobiliado,9000,630,160,9905,648,01311-000,-46.6492416,-23.5671314
+893090300,casa,Avenida Paulista 900, Bela Vista, São Paulo,50,2,2,,,Sem mobília,3370,0,417,3843,007,01311-000,-46.651121,-23.565104
+892841549,apartamento,Rua Carlos Sampaio, Bela Vista, São Paulo,110,2,3,1,4,Mobiliado,4300,2300,350,7005,157,01333-021,-46.6459999,-23.5674014
+892902497,apartamento,Rua Almirante Marques Leão, Bela Vista, São Paulo,38,1,1,1,3,Mobiliado,2610,535,0,3179,656,01330-010,-46.6492715,-23.5624658
+893089289,apartamento,Rua Treze de Maio, Bela Vista, São Paulo,118,3,2,1,7,Sem mobília,3700,1220,106,5073,1838,01327-000,-46.6440918,-23.5693389
+893066806,apartamento,Rua dos Franceses, Bela Vista, São Paulo,150,3,4,3,21,Sem mobília,4210,1100,192,5556,470,01329-010,-46.6478038,-23.5625162
+893088057,apartamento,Rua Artur Prado, Bela Vista, São Paulo,110,3,3,,2,Sem mobília,3000,1550,459,5048,449,01322-000,-46.6434232,-23.5644075
+893084992,apartamento,Rua São Carlos do Pinhal, Bela Vista, São Paulo,200,3,2,1,2,Sem mobília,3710,1800,25,5583,290,01333-907,-46.6502513,-23.5645495
+892765412,apartamento,Rua Pamplona, Bela Vista, São Paulo,46,1,1,1,8,Mobiliado,2900,750,96,3783,95,01405-001,-46.651557,-23.55968
+893087432,outro,Rua Itapeva, Bela Vista, São Paulo,45,1,1,,3,Sem mobília,2000,700,0,2726,168,01332-000,-46.6510929,-23.5583286
+893064120,apartamento,Rua Pamplona, Bela Vista, São Paulo,40,1,1,1,23,Sem mobília,2290,1530,239,4089,83,01332-010,-46.6514126,-23.5594235
+893089777,apartamento,Rua Doutor Seng, Bela Vista, São Paulo,45,1,1,,1,Mobiliado,2600,715,73,3421,315,01331-020,-46.6508091,-23.5616247
+892765220,apartamento,Rua Itapeva, Bela Vista, São Paulo,60,2,1,1,17,Mobiliado,2950,950,123,4061,220,01332-000,-46.6515022,-23.5586326
+893087273,casa,Rua dos Franceses, Bela Vista, São Paulo,330,5,3,4,,Sem mobília,7800,0,397,8326,20,01329-010,-46.6475082,-23.5583095
+893085648,apartamento,Rua Doutor Plínio Barreto, Bela Vista, São Paulo,110,3,2,,1,Mobiliado,4500,1100,100,5758,249,01313-904,-46.6516302,-23.5577489
+893088861,apartamento,Avenida Paulista, Bela Vista, São Paulo,45,1,1,,7,Sem mobília,1800,2000,68,3891,1274,01311-000,-46.6539345,-23.5633573
+893086930,apartamento,Rua Rabelo da Cruz, Vila Gustavo, São Paulo,64,2,1,1,1,Sem mobília,1360,650,0,2028,111,02255-000,-46.592877,-23.4759017
+892977383,casa,Rua Cristóvao Bezerra Dantas, Vila Constança , São Paulo,80,2,1,,,Sem mobília,1018,0,60,1091,325,02270-010,-46.5945659,-23.4719956
+893087497,apartamento,Avenida Jaçanã, Vila Constança , São Paulo,68,2,2,1,14,Sem mobília,1750,618,37,2428,764,02273-001,-46.585427,-23.4657025
+893085933,casa,Avenida Mazzei, Vila Mazzei, São Paulo,110,3,2,2,,Sem mobília,3433,0,67,3557,1559,02310-002,-46.5974718,-23.4690729
+893077681,casa,Rua Pixibás, Vila Gustavo, São Paulo,50,1,1,,,Sem mobília,1040,0,0,1058,19,02267-060,-46.5980297,-23.4778485
+893088555,apartamento,Rua São Nestor, Vila Mazzei, São Paulo,65,2,2,1,6,Sem mobília,1280,419,0,1716,33,02308-205,-46.6030947,-23.4730298
+893090817,apartamento,Avenida Júlio Buono, Vila Gustavo, São Paulo,60,2,2,1,14,Sem mobília,2750,500,117,3402,1849,02201-000,-46.5911855,-23.4838226
+893091013,apartamento,Avenida Mazzei, Vila Mazzei, São Paulo,67,2,2,1,12,Sem mobília,2500,740,75,3347,530,02310-000,-46.6036969,-23.4766177
+893087897,apartamento,Rua Areia do Rosário, Vila Constança , São Paulo,45,2,1,,9,Sem mobília,1200,350,0,1566,449,02261-060,-46.5763286,-23.4686509
+893085315,outro,Rua das Gamboas, Vila Mazzei, São Paulo,40,1,1,,,Sem mobília,600,0,59,667,451,02311-100,-46.5990617,-23.4675997
+893088106,apartamento,Rua Teixeira da Silva, Paraíso, São Paulo,120,2,1,1,7,Mobiliado,3320,900,209,4472,333,04002-031,-46.6477333,-23.5710868
+893087570,apartamento,Rua Martiniano de Carvalho, Bela Vista, São Paulo,65,2,2,1,16,Mobiliado,2950,850,125,3963,669,01321-001,-46.6421743,-23.5646347
+893090826,apartamento,Rua Manuel da Nóbrega, Paraíso, São Paulo,160,4,3,1,4,Sem mobília,5610,2035,375,8092,518,04001-001,-46.651831,-23.5717799
+893041361,apartamento,Rua Otávio Nébias, Paraíso, São Paulo,210,4,4,4,4,Sem mobília,10500,2857,1480,14970,98,04002-010,-46.6511874,-23.5727957
+892949970,outro,Rua Martins Fontes, Consolação, São Paulo,32,1,1,,5,Mobiliado,2292,330,0,2652,268,01050-000,-46.6450585,-23.5494364
+892814223,apartamento,R. Caio Prado - Consolação, São Paulo - Sp, Brazil,59,2,1,,7,Mobiliado,5000,600,184,5848,,,,
+893082328,apartamento,Rua Dona Antônia de Queirós, Consolação, São Paulo,70,1,1,1,1,Sem mobília,2070,1170,100,3367,43,01307-013,-46.6523327,-23.5528306
+893089532,outro,Rua Santa Madalena, Bela Vista, São Paulo,29,1,1,1,9,Mobiliado,3100,450,0,3590,72,01322-020,-46.6416373,-23.5633838
+893090517,outro,Rua da Glória, Liberdade, São Paulo,28,1,1,,10,Mobiliado,1800,250,20,2093,153,01510-001,-46.6342277,-23.5546799
+893089785,outro,Rua São Francisco, Centro, São Paulo,25,1,1,,12,Sem mobília,1460,340,17,1836,98,01005-020,-46.6382768,-23.5487531
+893084341,apartamento,Avenida Nove de Julho, Bela Vista, São Paulo,60,1,1,,1,Sem mobília,1451,460,44,1974,337,01313-000,-46.6417328,-23.5496483
+893088238,apartamento,Rua Caio Prado, Consolação, São Paulo,45,1,1,1,7,Sem mobília,1680,565,88,2355,247,01303-001,-46.6480393,-23.5500118
+892785271,outro,Rua Otávio Tarquínio de Souza, Campo Belo, São Paulo,30,1,1,1,4,Mobiliado,1551,770,0,2341,160,04613-000,-46.6634083,-23.6201026
+893090297,apartamento,Avenida dos Imarés, Moema, São Paulo,55,2,2,2,3,Sem mobília,3700,896,285,4928,317,04085-000,-46.6661396,-23.6121219
+893078807,apartamento,Alameda dos Anapurus, Moema, São Paulo,204,3,4,3,15,Sem mobília,7030,2400,917,10440,1440,04087-005,-46.6618183,-23.6110926
+893091475,apartamento,Alameda dos Araés, Moema, São Paulo,83,2,1,,2,Mobiliado,2640,127,99,2900,1318,04066-003,-46.6573805,-23.6159869
+893091501,outro,Rua Pascal, Campo Belo, São Paulo,37,1,1,1,17,Mobiliado,2800,550,167,3553,1777,04616-005,-46.6659698,-23.6251161
+893087807,apartamento,Alameda dos Anapurus, Moema, São Paulo,42,1,1,1,5,Mobiliado,3700,1400,119,5266,1661,04087-006,-46.6628734,-23.6127385
+893089065,apartamento,Rua Doutor Jesuíno Maciel, Campo Belo, São Paulo,70,2,2,1,8,Mobiliado,5000,1200,184,6448,1682,04615-000,-46.6663282,-23.624216
+893088721,casa,Rua Zacarias de Gois, Campo Belo, São Paulo,260,3,4,3,,Sem mobília,10000,,1820,11990,1299,04610-003,-46.6709188,-23.6223222
+893072984,casa,Rua Pascal, Campo Belo, São Paulo,170,3,2,2,,Sem mobília,4500,0,175,4750,1555,04616-005,-46.6675066,-23.6240874
+893087278,outro,Rua Pascal, Campo Belo, São Paulo,38,1,1,1,11,Mobiliado,2700,510,119,3364,1777,04616-005,-46.6659698,-23.6251161
+893088687,apartamento,Avenida da Invernada, Campo Belo, São Paulo,80,2,1,,7,Sem mobília,2300,900,167,3397,432,04612-060,-46.6629524,-23.6259329
+893080970,outro,Rua Doutor Jesuíno Maciel, Campo Belo, São Paulo,26,1,1,1,3,Sem mobília,2120,588,7,2742,1616,04615-000,-46.6665168,-23.6238321
+893089381,apartamento,Rua Cataguaz, Campo Belo, São Paulo,328,4,4,4,12,Sem mobília,12000,3500,917,16570,30,04624-060,-46.6704275,-23.6278505
+893091121,apartamento,Rua Francesco Usper, Sapopemba, São Paulo,47,2,1,1,1,Sem mobília,850,130,0,991,485,03928-235,-46.4974577,-23.6080173
+892972650,apartamento,Rua Normanda, Jardim Itapoan, Santo André,100,2,1,1,1,Sem mobília,1200,20,84,1320,197,09270-150,-46.4874503,-23.6354009
+893009083,apartamento,Rua Presidente Washington Luiz, Jardim Ana Maria, Santo André,110,2,2,2,2,Sem mobília,1500,100,0,1620,371,09260-670,-46.4902139,-23.6274891
+892994432,casa,Rua Evangelista de Souza, Parque Novo Oratório, Santo André,210,2,4,3,,Sem mobília,2700,0,54,2795,650,09260-411,-46.4960398,-23.6315398
+893064831,apartamento,Rua Francisco Usper, Sapopemba, São Paulo,60,2,1,1,4,Sem mobília,925,120,0,1057,248,03928-050,-46.4990753,-23.6097304
+893038617,casa,Rua Petrogrado, Jardim Santo Alberto, Santo André,50,1,1,,,Sem mobília,680,0,90,781,432,09260-450,-46.4927883,-23.6324851
+893013488,casa,Rua Eugênia de Guerin, Sapopemba, São Paulo,50,1,1,,,Sem mobília,700,0,0,711,252,03929-260,-46.4957438,-23.6061496
+893065343,casa,Rua Evangelista de Souza, Parque Novo Oratório, Santo André,57,2,2,1,,Sem mobília,1114,0,0,1133,361,09260-411,-46.4963444,-23.629106
+892977644,casa,Rua Eugenia de Guerin, Sapopemba, São Paulo,130,2,1,1,,Sem mobília,1000,0,125,1142,76,03929-260,-46.4960836,-23.6076422
+892931146,casa,Passagem Gabriel Fiorini, Sapopemba, São Paulo,60,1,1,,,Sem mobília,800,0,0,813,145,03927-070,-46.4983199,-23.6034037
+893090356,apartamento,Rua da Paz, Chácara Santo Antonio, São Paulo,37,1,1,,12,Mobiliado,2700,399,0,3134,944,04713-001,-46.6977659,-23.6317237
+893088931,apartamento,Rua da Paz, Chácara Santo Antonio, São Paulo,30,1,1,,4,Sem mobília,2600,900,34,3567,,,,
+893073791,apartamento,Rua Joaquim Guarani, Chácara Santo Antonio, São Paulo,70,1,1,1,1,Mobiliado,4500,632,175,5365,485,04707-061,-46.6933439,-23.6265296
+893089688,casa,Rua João Pais, Santo Amaro , São Paulo,133,3,1,2,,Sem mobília,2680,0,323,3048,96,04603-039,-46.6876336,-23.6292919
+893087955,apartamento,Rua Marechal Deodoro, Chácara Santo Antonio, São Paulo,380,3,2,2,13,Sem mobília,6000,2300,930,9307,295,04738-901,-46.6989055,-23.639004
+893089254,apartamento,Rua Santo Arcádio, Brooklin, São Paulo,106,2,2,2,22,Mobiliado,9000,980,478,10570,321,04707-110,-46.6910568,-23.6239339
+892915228,casa,Rua Américo Brasiliense, Santo Amaro , São Paulo,500,4,5,5,,Sem mobília,9800,5100,1250,16250,82,04715-001,-46.6892936,-23.6387356
+893076138,casa,Rua Dona Eponina Afonseca, Chácara Santo Antonio, São Paulo,230,3,1,4,,Sem mobília,5500,0,1000,6591,654,04720-010,-46.700793,-23.6370751
+893084246,apartamento,Rua das Margaridas, Brooklin, São Paulo,40,1,1,1,6,Sem mobília,2970,300,70,3378,281,04704-040,-46.6887342,-23.6246653
+893088185,casa,Rua Duarte Leite, Chácara Santo Antonio, São Paulo,400,4,7,8,,Mobiliado,8110,0,1500,9745,263,04720-070,-46.704818,-23.6350209
+893090344,apartamento,Rua Pássaros E Flores, Brooklin, São Paulo,72,2,2,1,11,Mobiliado,4500,720,275,5553,223,04704-000,-46.6881063,-23.6238696
+893080565,apartamento,Rua Sebastião Alves de Sousa, Freguesia do Ó, São Paulo,45,1,1,,1,Sem mobília,1000,0,0,1013,28,02968-140,-46.7056561,-23.4775381
+893075617,casa,Rua Fortunato Simões, Freguesia do Ó, São Paulo,100,3,2,3,,Sem mobília,3500,,209,3767,115,02967-080,-46.7039686,-23.4793414
+893090276,casa,Rua Gomes Leal, Vila Dionísia, São Paulo,170,2,4,,,Sem mobília,2500,0,225,2767,261,02671-090,-46.6650531,-23.4669762
+893080567,apartamento,Rua Sebastião Alves de Sousa, Freguesia do Ó, São Paulo,60,1,1,,1,Sem mobília,1200,0,0,1216,28,02968-140,-46.7056561,-23.4775381
+892880326,casa,Rua Capitão José Amaral, Freguesia do Ó, São Paulo,200,3,3,3,,Sem mobília,3315,0,241,3606,127,02832-110,-46.6928012,-23.4802527
+892917071,casa,Rua Josué Grande, Freguesia do Ó, São Paulo,185,2,2,2,,Sem mobília,2200,0,59,2293,150,02967-100,-46.7040805,-23.4804669
+893073044,casa,Rua São Feliciano, Freguesia do Ó, São Paulo,70,2,1,1,,Sem mobília,1300,0,0,1322,312,02840-090,-46.6907444,-23.4806314
+893072503,apartamento,Rua Professor José Soares de Mello, Vila Nova Cachoeirinha, São Paulo,55,2,1,1,13,Sem mobília,1240,450,120,1826,179,02882-100,-46.6671853,-23.4699186
+893078549,casa,Avenida General Penha Brasil, Vila Dionísia, São Paulo,48,2,1,,,Sem mobília,1180,100,0,1300,154,02673-000,-46.6666523,-23.4695106
+893058900,casa,Rua Amador de Barros Júnior, Freguesia do Ó, São Paulo,50,1,1,,,Sem mobília,923,0,42,981,20,02967-110,-46.7021966,-23.4800154
+893077477,casa,Rua Itirapina, Vila Nova Cachoeirinha, São Paulo,48,2,1,,,Sem mobília,1300,0,17,1339,56,02612-010,-46.6648834,-23.470613
+893069713,casa,Rua Adalberto Kurti, Jardim Felicidade, São Paulo,70,1,1,,,Sem mobília,1250,,0,1271,405,05138-040,-46.7306768,-23.4855811
+893090630,apartamento,Rua Portão Preto, Vila Mangalot, São Paulo,51,2,1,1,4,Sem mobília,1170,600,20,1805,164,05131-120,-46.7448197,-23.4955215
+893089863,apartamento,Rua Doutor Gomes Ferraz, Piqueri, São Paulo,60,3,2,1,7,Sem mobília,1600,373,0,1994,176,02920-110,-46.7230161,-23.4897647
+893085557,apartamento,Avenida Paula Ferreira, Piqueri, São Paulo,55,2,1,,4,Sem mobília,920,738,0,1670,2919,02915-100,-46.7198388,-23.4887699
+893077400,apartamento,Rua Willis Roberto Banks, Parque São Domingos, São Paulo,54,2,1,1,3,Mobiliado,1150,600,6,1771,549,05128-000,-46.7422332,-23.4934401
+893083542,casa,Rua Brigadeiro Henrique Fontenelle, Parque São Domingos, São Paulo,125,3,2,4,,Sem mobília,3500,0,132,3690,1119,05125-001,-46.7394167,-23.4977468
+892963968,apartamento,R. Celso Vieira, Piqueri, São Paulo,36,2,1,1,8,Sem mobília,1200,0,0,1216,718,02919-120,-46.7187793,-23.4925115
+893007818,casa,Rua Brigadeiro Henrique Fontenelle, Parque São Domingos, São Paulo,120,3,4,2,,Sem mobília,2200,0,167,2404,1169,05125-000,-46.7397977,-23.4972847
+893086288,apartamento,Rua José Ataliba Ortiz, Vila Mangalot, São Paulo,78,2,2,2,14,Sem mobília,1600,630,41,2292,985,05131-000,-46.74483,-23.4994058
+892988389,casa,Avenida Anastácio, City América, São Paulo,495,4,4,5,,Sem mobília,7500,0,1000,8625,1986,05119-000,-46.7370071,-23.4915337
+893041181,outro,Rua Joaquim Oliveira Freitas, Parque São Domingos, São Paulo,50,1,1,,1,Sem mobília,879,50,0,941,1741,05133-000,-46.7451954,-23.4923929
+893088153,apartamento,Rua Barão do Triunfo, Brooklin, São Paulo,50,1,1,1,9,Mobiliado,2945,350,165,3498,276,04602-000,-46.6841139,-23.6253846
+893091242,apartamento,Rua Professor José Leite E Oiticica, Brooklin, São Paulo,147,3,5,3,10,Mobiliado,12000,1200,450,13800,240,04705-080,-46.6956289,-23.6208484
+892817917,outro,Rua Henri Dunant, Chácara Santo Antonio, São Paulo,32,1,1,,10,Mobiliado,2850,588,0,3475,1066,04718-110,-46.7009355,-23.6262837
+893088758,outro,Rua Henri Dunant, Chácara Santo Antonio, São Paulo,33,1,1,1,3,Mobiliado,3200,580,84,3905,1066,04709-111,-46.7009275,-23.6263231
+893083805,apartamento,Rua Lagoa da Barra, Itaquera, São Paulo,50,2,1,1,2,Sem mobília,1000,240,0,1253,625,08215-540,-46.4422916,-23.5442742
+893083347,casa,Rua Estevan de Araújo Almeida, Itaquera, São Paulo,47,2,1,1,,Sem mobília,1100,90,2,1211,250,08246-081,-46.4359976,-23.5326
+893081338,apartamento,Rua Professor Leonídio Allegreti, Itaquera, São Paulo,52,2,1,1,3,Sem mobília,1010,130,0,1153,757,08215-250,-46.4429947,-23.5365904
+893001191,casa,Rua Jiparaná, Itaquera, São Paulo,50,1,1,,,Sem mobília,870,0,100,984,21,08246-050,-46.4373717,-23.5352554
+893066632,casa,Rua Nova Beira, Itaquera, São Paulo,22,1,1,,,Sem mobília,900,0,0,915,175,08215-500,-46.4422597,-23.5385147
+893087777,casa,Rua Damasio Pinto, Itaquera, São Paulo,55,1,1,,,Sem mobília,750,0,4,767,367,08215-490,-46.4415508,-23.5284614
+893076518,apartamento,Rua Jucupema, Itaquera, São Paulo,70,2,1,,1,Sem mobília,1300,100,0,1417,49,08246-061,-46.4398706,-23.5302017
+893087306,casa,Rua Padre Frei Jorge Walter Nunes, Itaquera, São Paulo,65,2,1,1,,Sem mobília,1480,0,42,1547,135,08246-065,-46.4389065,-23.5278426
+893045697,apartamento,Rua Padre Frei Jorge Walter Nunes, Itaquera, São Paulo,45,2,1,1,,Sem mobília,1000,320,0,1333,639,08246-066,-46.4348288,-23.5264521
+893043800,apartamento,Rua Laurentino Xavier dos Santos, Itaquera, São Paulo,40,2,1,,1,Sem mobília,1173,90,13,1291,801,08240-740,-46.4386327,-23.5218241
+893043801,apartamento,Rua Laurentino Xavier dos Santos, Itaquera, São Paulo,40,2,1,,1,Sem mobília,1173,90,13,1291,801,08240-740,-46.4386327,-23.5218241
+893078922,apartamento,Avenida Senador Teotônio Vilela, Cidade Dutra, São Paulo,69,2,1,,1,Sem mobília,1500,398,0,1918,1017,04801-010,-46.6992876,-23.710521
+893060028,casa,Rua Transamazonica, Cidade Dutra, São Paulo,200,3,3,3,,Sem mobília,2900,0,55,3003,110,04805-090,-46.7000491,-23.715239
+893048362,apartamento,Rua Cambuci do Vale, Cidade Dutra, São Paulo,190,4,4,,2,Sem mobília,3300,1200,125,4667,597,04805-110,-46.7046755,-23.7142218
+893008313,apartamento,Avenida Senador Teotônio Vilela, Cidade Dutra, São Paulo,44,1,1,,2,Sem mobília,1000,300,0,1313,1017,04801-010,-46.6992876,-23.710521
+893048085,casa,Rua Plínio Schmidt, Interlagos, São Paulo,98,2,2,1,,Sem mobília,2300,0,0,2335,519,04815-130,-46.6882118,-23.7040532
+893042321,casa,Rua Nícola Losaco, Interlagos, São Paulo,125,3,2,2,,Sem mobília,2100,0,0,2132,60,04815-080,-46.692485,-23.7075906
+893086248,apartamento,Avenida Interlagos, Vila Lisboa, São Paulo,44,2,1,1,1,Sem mobília,1760,25,0,1808,5851,04777-000,-46.699853,-23.6962371
+893082382,casa,Rua José Galdino da Silva, Interlagos, São Paulo,327,3,4,3,,Sem mobília,4500,0,492,5067,243,04792-000,-46.7019589,-23.6987056
+893015622,apartamento,Rua Coimbra, Centro, Diadema,62,3,1,1,7,Sem mobília,1550,380,104,2054,620,09910-120,-46.6303271,-23.6969855
+893015886,casa,Rua Aurélio Arrobas Martins, Interlagos, São Paulo,580,5,5,4,,Mobiliado,9000,0,982,10120,200,04789-040,-46.7060838,-23.7070187
+893090007,apartamento,Rua Francisco Pereira, Vila Galvão, Guarulhos,42,2,1,1,13,Sem mobília,1300,280,0,1597,466,07071-060,-46.5679968,-23.4532665
+893089743,apartamento,Rua Guarani, Vila Galvão, Guarulhos,52,2,2,1,3,Sem mobília,1240,350,66,1672,401,07074-010,-46.5663735,-23.4493918
+893086084,apartamento,Rua Treze de Maio, Vila Galvão, Guarulhos,95,3,1,,2,Sem mobília,1270,0,59,1346,235,07071-050,-46.5661839,-23.4554107
+893085875,apartamento,Avenida São Luiz, Vila Galvão, Guarulhos,71,2,2,1,3,Sem mobília,1900,380,95,2400,840,07072-000,-46.5637054,-23.4508902
+892977667,casa,R. São Maurício, Vila Galvão, Guarulhos,80,2,1,1,,Sem mobília,1600,0,81,1708,583,07073-000,-46.5648574,-23.4486297
+892942426,apartamento,Rua São Maurício, Vila Galvão, Guarulhos,165,3,2,3,9,Sem mobília,2400,1150,308,3889,385,07073-000,-46.5654069,-23.4502458
+893001932,apartamento,Rua Guarani, Vila Galvão, Guarulhos,65,2,1,1,2,Sem mobília,1100,400,19,1533,223,07074-010,-46.5667544,-23.4509444
+893055807,apartamento,Rua Guarani, Vila Galvão, Guarulhos,56,2,1,1,8,Mobiliado,4000,320,59,4430,401,07074-010,-46.5663735,-23.4493918
+893070829,apartamento,Rua Guarani, Vila Rosália, Guarulhos,62,2,2,1,4,Sem mobília,1300,0,46,1363,784,07074-010,-46.5650511,-23.4461752
+892937579,casa,Rua Buracica, Vila Constança , São Paulo,30,1,1,,,Sem mobília,987,0,43,1038,117,02262-160,-46.5731776,-23.4649824
+893084363,apartamento,Rua José Buono, Vila Constança , São Paulo,64,2,2,,1,Mobiliado,1700,480,10,2212,302,02273-120,-46.5862355,-23.4627294
+893076375,apartamento,Rua Itza, Vila Constança , São Paulo,53,2,2,1,16,Sem mobília,1300,390,5,1712,90,02261-010,-46.5759368,-23.468007
+893076182,apartamento,Avenida Paulo Lincoln do Valle Pontin, Vila Constança , São Paulo,78,3,1,1,3,Mobiliado,1310,590,0,1917,550,02273-010,-46.5851105,-23.4600593
+893077475,apartamento,Rua São Manoel, Vila Galvão, Guarulhos,88,3,2,1,7,Mobiliado,2300,470,233,3033,57,07073-010,-46.5645522,-23.4510457
+893089957,apartamento,Rua Novo Cancioneiro, Brooklin, São Paulo,130,3,2,2,4,Sem mobília,3680,1951,472,6150,75,04704-080,-46.690185,-23.6239775
+893090357,apartamento,Rua São Pedro, Centro, Diadema,65,2,1,1,12,Sem mobília,1150,466,93,1724,126,09910-620,-46.6294574,-23.688819
+893058836,casa,Rua Visconde de Taunay, Centro, Diadema,59,1,1,,,Sem mobília,890,0,15,920,340,09910-530,-46.634071,-23.6911414
+893077627,casa,Rua Visconde de Ouro Preto, Centro, Diadema,110,2,2,2,,Sem mobília,2100,0,73,2208,128,09910-440,-46.6331835,-23.6884071
+893077036,apartamento,Rua São Francisco de Assis, Centro, Diadema,87,3,2,2,18,Sem mobília,1770,877,0,2670,373,09911-000,-46.6288955,-23.6881199
+893028263,outro,Rua Japão, Centro, Diadema,35,1,1,,1,Sem mobília,600,50,25,683,372,09910-180,-46.6303775,-23.694171
+893028281,outro,Rua Japão, Centro, Diadema,35,1,1,,1,Sem mobília,580,50,25,663,372,09910-180,-46.6303775,-23.694171
+893028271,outro,Rua Japão, Centro, Diadema,35,1,1,,1,Sem mobília,550,50,25,632,372,09910-180,-46.6303775,-23.694171
+893091381,casa,Rua Mogi Mirim, Centro, Diadema,146,3,2,2,,Sem mobília,1790,0,159,1979,35,09920-100,-46.6260703,-23.6788574
+893058848,casa,Rua Visconde de Taunay, Centro, Diadema,45,1,1,,,Sem mobília,960,0,20,996,340,09910-530,-46.634071,-23.6911414
+893057590,apartamento,Rua Gaspar Ricardo, Centro, Diadema,62,3,2,,10,Sem mobília,2000,380,97,2503,309,09910-040,-46.6313643,-23.6932398
+893075941,casa,Rua Arantes Monteiro, Vila Jaguara, São Paulo,55,1,1,,,Sem mobília,940,0,17,973,115,05114-130,-46.7468122,-23.5086769
+893059651,apartamento,Rua Rubens de Souza Araújo, Vila Mangalot, São Paulo,55,2,1,,2,Sem mobília,1100,580,90,1784,357,05132-000,-46.744128,-23.5056772
+893034300,apartamento,Praça Itaquirai, Vila Mangalot, São Paulo,63,2,1,1,8,Sem mobília,1750,726,0,2499,10,05132-110,-46.7444695,-23.5051204
+893066543,apartamento,Rua João Veloso de Oliveira, Vila Mangalot, São Paulo,42,2,1,1,8,Sem mobília,1100,650,95,1859,165,05126-040,-46.7431458,-23.5052327
+893021601,apartamento, R. Rubéns de Souza Araújo, Vila Mangalot, São Paulo,63,3,2,1,1,Sem mobília,1800,630,84,2537,277,05132-010,-46.7439455,-23.5061335
+893044967,apartamento,Rua João Veloso de Oliveira, Vila Mangalot, São Paulo,42,2,1,1,2,Sem mobília,1000,640,0,1653,165,08452-252,-46.7431458,-23.5052327
+893036437,apartamento,Praça Itaquirai, Vila Mangalot, São Paulo,78,2,1,1,1,Sem mobília,1200,723,0,1939,10,05132-202,-46.7444695,-23.5051204
+893058075,apartamento,Rua Rubens de Souza Araújo, Vila Mangalot, São Paulo,64,2,1,1,6,Sem mobília,1350,720,0,2088,346,05132-000,-46.7437202,-23.5056289
+892896164,apartamento,Rua Júpiter, Aclimação, São Paulo,180,3,5,3,6,Sem mobília,6500,3000,1200,10780,218,01532-030,-46.6351462,-23.5727799
+893088333,outro,Rua Abílio Soares, Paraíso, São Paulo,50,1,1,,,Mobiliado,1910,639,0,2574,384,04005-001,-46.6454697,-23.5741375
+893083823,apartamento,Rua Apeninos, Aclimação, São Paulo,40,1,1,,13,Mobiliado,2400,550,67,3048,362,01533-000,-46.6390506,-23.5706157
+893020241,outro,Rua Sampaio Viana, Paraíso, São Paulo,38,1,1,1,9,Mobiliado,4466,770,142,5435,180,04004-000,-46.6457378,-23.5731461
+893082020,apartamento,Rua Castro Alves, Aclimação, São Paulo,83,2,2,1,15,Mobiliado,3010,1026,0,4075,313,01532-001,-46.6371727,-23.5681077
+893083156,apartamento,Alameda Joaquim Eugênio de Lima, Jardim Paulista, São Paulo,60,2,1,1,7,Sem mobília,3900,691,143,4784,712,01403-001,-46.6526747,-23.5673175
+893088500,apartamento,Rua Avanhandava, Consolação, São Paulo,230,3,3,1,4,Mobiliado,4740,1350,288,6439,870,01306-001,-46.6496174,-23.5540682
+893087479,apartamento,Rua Paim, Consolação, São Paulo,36,1,1,1,5,Mobiliado,3300,550,125,4017,189,01306-010,-46.6502458,-23.5549105
+893089866,apartamento,Alameda Casa Branca, Jardim Paulista, São Paulo,47,1,1,1,1,Mobiliado,3400,752,144,4340,343,01408-001,-46.6575551,-23.5647349
+893087733,apartamento,Alameda Ministro Rocha Azevedo, Consolação, São Paulo,51,1,1,,1,Mobiliado,5000,800,222,6086,38,01410-001,-46.6566685,-23.5582646
+893085920,outro,Alameda Santos, Jardim Paulista, São Paulo,28,1,1,,3,Sem mobília,1750,265,44,2082,1343,01419-001,-46.65527,-23.5643256
+893090984,apartamento,Avenida Paulista 2439, Jardim Paulista, São Paulo,48,2,2,,10,Sem mobília,3270,230,125,3667,503,01311-000,-46.6626507,-23.5564839
+893077226,apartamento,Rua Afonso de Freitas, Paraíso, São Paulo,173,3,2,2,5,Sem mobília,5000,1900,1000,7964,686,04006-050,-46.6482689,-23.5767223
+893085279,outro,Av Brigadeiro Luis Antonio, Bela Vista, São Paulo,39,1,1,1,7,Mobiliado,2190,450,125,2793,499,01317-000,-46.6388899,-23.5547673
+893089738,apartamento,Avenida Brigadeiro Luís Antônio, Bela Vista, São Paulo,96,2,2,1,3,Sem mobília,3500,562,0,4107,1186,01317-000,-46.6431018,-23.5595668
+893057151,outro,Rua Barata Ribeiro, Consolação, São Paulo,40,1,1,1,12,Sem mobília,1683,694,13,2412,372,01313-001,-46.6538573,-23.5565708
+893085659,apartamento,Rua Barata Ribeiro, Consolação, São Paulo,65,2,2,1,20,Sem mobília,3360,800,92,4295,284,01308-000,-46.6531715,-23.5563256
+893090990,apartamento,Rua Bela Cintra, Consolação, São Paulo,50,2,1,1,18,Mobiliado,4500,,0,4558,521,01415-001,-46.6572402,-23.5537231
+893087060,apartamento,Rua Bela Cintra, Consolação, São Paulo,57,1,1,,12,Sem mobília,2300,676,0,3006,359,01415-001,-46.6560118,-23.5529514
+893049345,apartamento,Rua Paim, Consolação, São Paulo,57,1,1,1,1,Mobiliado,3300,620,188,4150,285,01306-010,-46.6506554,-23.5541221
+893087162,apartamento,Rua Paim, Consolação, São Paulo,60,1,2,1,9,Mobiliado,5000,750,161,5975,363,01306-010,-46.6512304,-23.5536786
+893087130,apartamento,Rua Tabatinguera, Liberdade, São Paulo,60,2,1,,17,Mobiliado,1880,550,53,2507,93,01020-001,-46.6320216,-23.5523836
+893090736,outro,Rua Topázio, Vila Mariana, São Paulo,30,1,1,,3,Mobiliado,2600,900,34,3567,701,04105-060,-46.6350121,-23.5763014
+892819356,apartamento,Rua Eça de Queiróz, Vila Mariana, São Paulo,100,3,1,1,4,Mobiliado,4800,1074,40,5975,234,04011-050,-46.6432268,-23.5788025
+892966785,apartamento,Rua Abílio Soares, Paraíso, São Paulo,100,3,2,1,9,Sem mobília,4890,910,138,6000,625,04005-000,-46.6475121,-23.5754107
+892874474,apartamento,Rua Carlos Steinen, Paraíso, São Paulo,130,3,3,2,7,Mobiliado,6000,1900,334,8311,193,04004-012,-46.6483405,-23.575293
+893080574,apartamento,Rua Avanhandava, Consolação, São Paulo,40,1,1,,14,Mobiliado,2000,290,50,2366,459,01306-001,-46.6476409,-23.552296
+892767688,apartamento,Rua Avanhandava, Consolação, São Paulo,40,1,1,,14,Mobiliado,1900,290,0,2215,459,01306-000,-46.647745,-23.552321
+893089253,apartamento,Rua Major Sertório, Santa Cecília, São Paulo,53,1,2,,8,Mobiliado,2110,480,0,2617,440,01222-001,-46.648401,-23.5453343
+893056139,outro,Largo do Arouche, Santa Cecília, São Paulo,32,1,1,,10,Mobiliado,2500,450,59,3041,77,01035-000,-46.644948,-23.5417054
+893016281,apartamento,Rua Bento Freitas, Santa Cecília, São Paulo,30,1,1,,3,Sem mobília,1550,380,37,1987,162,01220-000,-46.6456877,-23.5432558
+893089644,apartamento,Avenida Brigadeiro Luís Antônio, Paraíso, São Paulo,78,2,1,1,1,Mobiliado,2700,980,89,3804,2759,01402-000,-46.6520609,-23.5710805
+892925747,apartamento,Avenida Brigadeiro Luís Antônio, Paraíso, São Paulo,112,3,2,1,4,Mobiliado,4122,1200,334,5683,2759,01317-910,-46.6520609,-23.5710805
+893087964,apartamento,Alameda Sarutaiá, Jardim Paulista, São Paulo,114,3,3,,7,Sem mobília,5000,1300,198,6562,136,01403-010,-46.653221,-23.569908
+892797472,apartamento,Alameda Jaú, Jardim Paulista, São Paulo,50,2,1,1,12,Mobiliado,3800,1200,0,5049,358,01420-000,-46.6534403,-23.567091
+893089038,apartamento,Alameda Itu, Jardim Paulista, São Paulo,115,2,2,1,3,Sem mobília,5500,1500,250,7320,1030,01421-001,-46.6623722,-23.5611812
+893078268,apartamento,Rua Padre João Manuel, Jardim Paulista, São Paulo,150,2,3,1,13,Sem mobília,7000,1300,379,8768,328,01411-000,-46.6616428,-23.5611545
+893088283,apartamento,Alameda Ministro Rocha Azevedo, Jardim Paulista, São Paulo,42,1,1,1,6,Mobiliado,2300,1800,235,4365,523,01410-001,-46.6601878,-23.5626172
+893090086,apartamento,Alameda Tietê, Jardim Paulista, São Paulo,100,2,1,1,8,Sem mobília,4000,1035,110,5196,223,01417-020,-46.6655823,-23.5622852
+893087649,apartamento,Alameda Jaú, Jardim Paulista, São Paulo,160,3,2,,5,Mobiliado,5500,2000,475,8045,1874,01420-002,-46.6643178,-23.5578415
+893089427,outro,Alameda Santos, Jardim Paulista, São Paulo,30,1,1,,93,Sem mobília,1700,437,48,2207,2387,01419-000,-46.6629636,-23.5579144
+893080912,outro,Alameda Campinas, Jardim Paulista, São Paulo,40,1,1,,8,Mobiliado,4000,0,200,4251,540,01404-100,-46.6537719,-23.5660842
+893089404,apartamento,Rua da Consolação, Jardim Paulista, São Paulo,110,3,2,1,11,Mobiliado,5650,1120,206,7048,2920,01416-001,-46.6662041,-23.5585341
+893089033,apartamento,Alameda Santos, Jardim Paulista, São Paulo,129,2,2,,4,Sem mobília,4000,1040,303,5394,2491,01419-101,-46.6637033,-23.5572272
+893088980,apartamento,Rua Bela Cintra, Jardim Paulista, São Paulo,30,1,1,,3,Sem mobília,2800,900,34,3770,,,,
+893088005,outro,Rua Bela Cintra, Consolação, São Paulo,55,2,2,1,18,Mobiliado,2900,2480,434,5851,672,01415-001,-46.6590025,-23.5535185
+893084023,apartamento,Rua Minas Gerais, Higienópolis, São Paulo,50,1,1,,11,Mobiliado,1990,562,0,2578,428,01244-011,-46.6654177,-23.5554857
+893049706,apartamento,Rua Bahia, Higienópolis, São Paulo,180,2,3,3,7,Mobiliado,6000,3000,834,9911,644,01244-001,-46.6609904,-23.5486536
+893087187,apartamento,Alameda Itu, Jardim Paulista, São Paulo,54,1,1,2,3,Mobiliado,3000,1084,216,4339,265,01421-001,-46.6571723,-23.5662916
+893087983,casa,Rua Mamoré, Bom Retiro, São Paulo,46,1,1,,,Sem mobília,1300,0,93,1415,684,01128-020,-46.6410014,-23.5257304
+892879540,apartamento,Rua Júlio Conceição, Bom Retiro, São Paulo,149,3,2,1,2,Sem mobília,2200,1400,95,3723,339,01126-001,-46.6400879,-23.5267769
+893086612,casa,Avenida Cruzeiro do Sul, 325, Canindé,52,2,2,,,Sem mobília,2200,0,0,2237,46,,-325.0,
+893089787,outro,Rua General Osório, Centro, São Paulo,25,1,1,,20,Sem mobília,1160,300,141,1616,11,01213-000,-46.6388816,-23.5357162
+893088267,outro,Rua General Osório, Centro, São Paulo,32,1,1,,5,Sem mobília,1240,300,0,1556,11,01213-000,-46.6388816,-23.5357162
+893084744,apartamento,Rua Afonso Pena, Bom Retiro, São Paulo,41,2,1,,10,Sem mobília,1750,176,20,1969,560,01124-000,-46.6332452,-23.5270902
+893087207,apartamento,Rua Vinte E Cinco de Janeiro, Centro, São Paulo,49,2,1,,,Sem mobília,1400,390,8,1816,151,01103-000,-46.6317516,-23.5352444
+892891280,apartamento,Rua Afonso Pena, Bom Retiro, São Paulo,90,2,2,,2,Sem mobília,1786,650,0,2449,330,01124-000,-46.633768,-23.5290491
+893089013,apartamento,Avenida Duque de Caxias, Centro, São Paulo,50,1,1,,10,Sem mobília,1690,320,0,2032,834,01214-000,-46.6417396,-23.5361771
+893090655,outro,Rua Brigadeiro Tobias, Centro, São Paulo,32,1,1,,2,Sem mobília,1800,400,0,2223,334,01032-000,-46.6351418,-23.5400714
+893089850,apartamento,Rua Duque de Caxias, Centro, São Paulo,45,1,1,,4,Sem mobília,1250,390,34,1690,834,01214-000,-46.6417396,-23.5361771
+893084525,apartamento,Rua Vitoria, Centro, São Paulo,30,1,1,,6,Sem mobília,1200,340,20,1576,467,05038-040,-46.64077,-23.5390991
+893090478,apartamento,Rua Jesuíno Pascoal, Santa Cecília, São Paulo,60,2,1,,3,Sem mobília,2100,1085,24,3236,61,01224-050,-46.6496333,-23.5406649
+892825446,apartamento,Rua Newton Prado, Bom Retiro, São Paulo,40,1,1,,1,Mobiliado,1471,150,117,1757,205,01127-000,-46.6393986,-23.5259106
+893084344,apartamento,Avenida Duque de Caxias, Centro, São Paulo,52,1,1,,16,Sem mobília,1340,325,0,1682,834,01214-000,-46.6417396,-23.5361771
+893089181,outro,Avenida Senador Queirós, Centro, São Paulo,30,1,1,,3,Mobiliado,2600,900,34,3567,101,01026-001,-46.6351773,-23.5388665
+893040901,outro,Avenida Ipiranga, Centro, São Paulo,23,1,1,,2,Mobiliado,1679,200,67,1969,890,01040-010,-46.6397692,-23.5421407
+892926544,outro,Av. Ipiranga, Centro, São Paulo,39,1,1,,4,Mobiliado,1550,250,34,1854,1248,01040-000,-46.6370584,-23.5402712
+893036431,apartamento,Rua Afonso Pena, Bom Retiro, São Paulo,124,3,1,,8,Sem mobília,1200,1200,100,2516,364,01124-000,-46.6337417,-23.5287716
+892843743,apartamento,Alameda Eduardo Prado, Bom Retiro, São Paulo,85,3,2,,7,Mobiliado,1980,700,10,2716,351,01204-001,-46.6485481,-23.5302355
+893086339,apartamento,Alameda Campinas, Jardim Paulista, São Paulo,90,2,1,,9,Sem mobília,2500,1245,190,3967,1101,01404-100,-46.6568846,-23.5701678
+893081064,apartamento,Alameda Casa Branca, Jardim Paulista, São Paulo,180,4,3,2,1,Mobiliado,6810,2048,885,9830,714,01408-000,-46.6607086,-23.5666512
+893086900,outro,Rua José Maria Lisboa, Jardim Paulista, São Paulo,27,1,1,1,10,Mobiliado,3000,1520,264,4823,555,01405-005,-46.6576841,-23.5687104
+893084309,apartamento,Alameda Campinas, Jardim Paulista, São Paulo,110,2,2,1,10,Sem mobília,4250,1106,270,5680,781,01404-001,-46.6549173,-23.5678662
+893029383,casa,Rua Carmine Forte, Bom Retiro, São Paulo,150,3,2,,,Sem mobília,2100,0,0,2135,39,01127-040,-46.6387597,-23.5224996
+893085024,casa,Rua Harmonia, Vila Madalena, São Paulo,300,6,3,3,,Sem mobília,5500,0,500,6091,1216,05435-001,-46.6914555,-23.5481275
+892797123,apartamento,Rua Jericó, Vila Madalena, São Paulo,56,2,2,1,9,Sem mobília,2800,1103,137,4076,227,05435-040,-46.6895759,-23.5513742
+892786271,apartamento,Rua Rodesia, Vila Madalena, São Paulo,48,1,1,1,1,Sem mobília,2200,699,0,2927,121,05435-020,-46.6901191,-23.5510989
+893086232,apartamento,Rua Harmonia, Vila Madalena, São Paulo,120,3,2,2,15,Sem mobília,4750,1600,425,6836,564,05435-000,-46.689136,-23.5531872
+893080324,apartamento,Rua Capote Valente, Pinheiros, São Paulo,50,1,1,1,2,Mobiliado,3700,800,0,4547,1475,05409-003,-46.6810824,-23.5499505
+892868333,apartamento,Rua Paris, Sumaré, São Paulo,58,2,1,1,4,Mobiliado,2703,636,80,3451,415,01257-040,-46.6874554,-23.542239
+893068069,apartamento,Rua Bruxelas, Sumaré, São Paulo,72,2,2,,11,Sem mobília,2200,1044,79,3351,38,01259-020,-46.6821631,-23.5419478
+893087342,apartamento,Rua Cayowaá, Sumaré, São Paulo,110,3,3,2,7,Sem mobília,4000,1295,468,5814,2046,01258-011,-46.6885497,-23.5450382
+893078909,casa,Rua Coronel Firmo da Silva, Sumaré, São Paulo,400,4,4,,,Mobiliado,15000,0,1542,16790,337,01255-040,-46.6838792,-23.5442702
+892870201,apartamento,Rua Harmonia, Vila Madalena, São Paulo,83,2,2,2,5,Sem mobília,4309,1189,219,5772,539,05435-902,-46.6894743,-23.5537206
+893083046,casa,Rua Fradique Coutinho, Vila Madalena, São Paulo,235,3,3,,,Sem mobília,8000,0,584,8717,2217,05416-010,-46.6943237,-23.5501981
+893083325,apartamento,Avenida Ipiranga, Centro, São Paulo,55,2,1,,5,Mobiliado,1895,535,43,2498,1284,01046-010,-46.6367599,-23.5399804
+893080568,outro, Rua Anhaia, Bom Retiro, São Paulo,31,1,1,,3,Mobiliado,2000,360,47,2433,871,01130-000,-46.6460582,-23.5228954
+892979286,casa,Avenida Engenheiro Heitor Antônio Eiras Garcia, Butantã, São Paulo,90,2,1,,,Sem mobília,1631,0,0,1645,149,05588-001,-46.7374394,-23.5737541
+893083143,outro,Avenida Engenheiro Heitor Antônio Eiras Garcia, Butantã, São Paulo,18,1,1,,2,Sem mobília,1000,,0,1013,133,05588-000,-46.7372614,-23.5737132
+893086243,apartamento,Rua Monte Caseros, Butantã, São Paulo,55,2,1,1,10,Mobiliado,2080,552,0,2659,126,05590-130,-46.731795,-23.5743283
+893082954,outro,Avenida Engenheiro Heitor Antônio Eiras Garcia, Butantã, São Paulo,18,1,1,,2,Mobiliado,1000,0,0,1013,133,05588-000,-46.7372614,-23.5737132
+893083125,outro,Avenida Engenheiro Heitor Antônio Eiras Garcia, Butantã, São Paulo,18,1,1,,3,Mobiliado,1000,0,0,1013,133,05588-000,-46.7372614,-23.5737132
+893083100,outro,Avenida Engenheiro Heitor Antônio Eiras Garcia, Butantã, São Paulo,18,1,1,,1,Sem mobília,1000,0,0,1013,133,05588-000,-46.7372614,-23.5737132
+893085692,outro,Rua Prado Valadares, Butantã, São Paulo,35,1,1,,,Sem mobília,800,0,3,814,07,05365-060,-46.7469182,-23.5771789
+892972456,apartamento,Rua Monte Caseros, Butantã, São Paulo,68,2,1,1,4,Sem mobília,1700,753,26,2505,313,05590-130,-46.7332896,-23.5748583
+893082511,casa,Avenida Comendador Alberto Bonfiglioli, Butantã, São Paulo,180,3,1,,,Sem mobília,4000,0,405,4472,726,05593-000,-46.7402362,-23.5782358
+893083071,outro,Avenida Engenheiro Heitor Antônio Eiras Garcia, Butantã, São Paulo,18,1,1,,2,Sem mobília,1000,0,0,1013,133,05588-000,-46.7372614,-23.5737132
+893079561,outro,Rua Frei Inácio da Conceição, Jardim Éster Yolanda, São Paulo,15,1,1,,1,Mobiliado,815,500,0,1326,263,05362-040,-46.7424849,-23.5714366
+893077133,apartamento,Rua Riskallah Jorge, Centro, São Paulo,40,1,1,,1,Sem mobília,1450,245,0,1714,103,01032-010,-46.6352891,-23.5415553
+893081872,outro,Rua Brigadeiro Tobias, 118, Centro,37,1,1,,30,Sem mobília,1140,600,42,1797,46,,-118.0,
+893082820,outro,Avenida Senador Queirós, Centro, São Paulo,20,1,1,,1,Mobiliado,1200,337,97,1650,101,01026-001,-46.6351773,-23.5388665
+893082852,outro,Avenida Senador Queirós, Centro, São Paulo,20,1,1,,11,Mobiliado,1300,321,93,1731,101,01026-001,-46.6351773,-23.5388665
+893050608,apartamento,Rua Charles Gomes de França, Centro, Diadema,80,2,1,1,3,Sem mobília,1500,400,80,2000,265,09910-070,-46.6311431,-23.69531
+893054843,apartamento,Rua Coimbra, Centro, Diadema,65,2,1,1,11,Sem mobília,1200,680,113,2009,257,09910-120,-46.6298085,-23.6939531
+893068638,apartamento,Rua Coimbra, Centro, Diadema,54,2,1,1,7,Sem mobília,1350,550,90,2008,583,09910-120,-46.6302367,-23.6970916
+893087658,apartamento,Rua Fernandes Silva, Brás, São Paulo,56,1,1,,3,Sem mobília,1000,270,25,1308,134,02857-020,-46.623949,-23.5419822
+893078055,apartamento,Rua da Alfandega, Brás, São Paulo,65,2,1,1,2,Sem mobília,2000,675,163,2864,496,03008-030,-46.6190127,-23.5420591
+893084908,apartamento,Avenida Prestes Maia, Centro, São Paulo,50,1,1,,8,Mobiliado,1630,279,0,1930,321,01031-001,-46.6348157,-23.5415271
+893087953,apartamento,Rua Campos Sales, Brás, São Paulo,78,2,1,1,13,Mobiliado,2180,400,42,2650,147,03041-090,-46.6191217,-23.5491235
+893084660,outro,Rua Brigadeiro Tobias, Centro, São Paulo,28,1,1,,6,Mobiliado,1760,422,84,2289,340,01032-000,-46.6351252,-23.540041
+892796106,apartamento,Rua Ipanema, Mooca, São Paulo,50,2,1,1,12,Sem mobília,2004,350,0,2380,686,03164-200,-46.6054607,-23.5465511
+893078741,apartamento,Rua Doutor Carlos Botelho, Brás, São Paulo,50,2,1,,2,Sem mobília,1450,209,0,1678,399,03017-010,-46.6079406,-23.5380276
+892925602,apartamento,Rua Taquari, Mooca, São Paulo,52,2,1,1,2,Sem mobília,2094,386,0,2495,941,03166-001,-46.5971974,-23.5507544
+893089783,outro,Rua Belém, Belém, São Paulo,38,1,1,,1,Sem mobília,1100,95,88,1297,208,03057-010,-46.5968088,-23.5392463
+893087626,apartamento,Rua Gomes Cardim, Mooca, São Paulo,69,3,1,1,19,Sem mobília,1900,860,15,2800,657,03050-000,-46.6111471,-23.5466623
+893050411,apartamento,Rua Domingos Paiva, Mooca, São Paulo,31,1,1,1,9,Sem mobília,1640,300,0,1961,206,03043-070,-46.6168319,-23.5454271
+893082088,apartamento,Rua Comes Cardim, Mooca, São Paulo,70,3,1,1,2,Sem mobília,1840,800,84,2748,654,03050-000,-46.611286,-23.546786
+892839185,apartamento,Rua Ipanema, Mooca, São Paulo,49,2,1,1,12,Mobiliado,1856,347,0,2216,686,03164-200,-46.6054607,-23.5465511
+893081284,apartamento,Rua Maria Marcolina, Brás, São Paulo,85,3,1,,1,Sem mobília,2200,500,0,2728,871,02857-020,-46.6174933,-23.534451
+893081035,apartamento,Rua Sampaio Moreira, Brás, São Paulo,60,1,1,,6,Sem mobília,1240,340,0,1596,205,03008-010,-46.620197,-23.5415737
+893090489,apartamento,Avenida Rangel Pestana, Brás, São Paulo,40,1,1,,7,Sem mobília,1000,432,0,1445,863,03001-000,-46.6256665,-23.5474426
+893082227,apartamento,Rua Martim Burchard, Brás, São Paulo,49,2,1,1,5,Sem mobília,1590,395,0,2006,284,03043-020,-46.617711,-23.5466836
+893090095,apartamento,Rua Catumbi, Belém, São Paulo,65,2,2,,4,Sem mobília,2080,474,18,2599,1213,03021-000,-46.6026072,-23.5277758
+893090616,casa,Rua Batista Parente, Pari, São Paulo,111,3,2,2,,Sem mobília,2190,0,0,2227,80,03022-080,-46.6055083,-23.5262588
+893090480,apartamento,Rua Paulo Andrighetti, Pari, São Paulo,55,2,2,1,6,Mobiliado,2100,700,0,2827,1573,03022-000,-46.6074266,-23.5250621
+893068562,apartamento,Rua Catumbi, Belém, São Paulo,68,2,2,1,1,Mobiliado,1970,400,84,2479,1077,03021-000,-46.602516,-23.528992
+893077980,apartamento,Rua Catumbi, Belém, São Paulo,95,3,2,2,4,Sem mobília,2500,700,167,3399,1213,03021-000,-46.6026072,-23.5277758
+893090639,apartamento,Rua Intendência, Belém, São Paulo,43,2,1,,5,Sem mobília,1200,400,0,1616,344,03015-010,-46.595155,-23.5341209
+893086229,casa,Rua Rodovalho da Fonseca, Pari, São Paulo,120,3,3,3,,Sem mobília,2990,0,334,3374,219,03028-030,-46.6086333,-23.5268429
+893024119,apartamento,Rua Catumbi, Belém, São Paulo,89,2,1,,1,Sem mobília,1800,420,0,2243,90,03021-000,-46.5991469,-23.5373033
+893014406,outro,Rua Caetano Pinto, Mooca, São Paulo,28,1,1,,4,Mobiliado,1700,300,0,2022,220,03041-000,-46.6220089,-23.548384
+893081267,apartamento,Rua Caetano Pinto, Mooca, São Paulo,37,1,1,,1,Sem mobília,1480,221,11,1731,220,02857-020,-46.6220089,-23.548384
+893082472,apartamento,Rua da Mooca, Mooca, São Paulo,55,2,1,,8,Sem mobília,1500,500,0,2020,336,03103-000,-46.622022,-23.5536576
+893089060,apartamento,Rua da Mooca, Mooca, São Paulo,56,2,2,,6,Mobiliado,1900,480,0,2405,336,03103-000,-46.622022,-23.5536576
+893089780,outro,Oscar Cintra Gordinho 210, Liberdade, São Paulo,28,1,1,,3,Sem mobília,1200,359,21,1596,210,01512-010,-46.6284015,-23.5531842
+892816643,apartamento,Rua Helena Zerrener, Liberdade, São Paulo,30,1,1,,5,Sem mobília,850,390,0,1251,140,01512-020,-46.6285067,-23.5533418
+893083666,apartamento,Rua Visconde de Parnaíba, Mooca, São Paulo,38,1,1,,13,Mobiliado,2400,350,9,2790,1046,02857-020,-46.6152693,-23.55046
+893070808,apartamento,Rua Visconde de Parnaíba, Mooca, São Paulo,36,1,1,,1,Sem mobília,2080,290,34,2431,1046,02857-020,-46.6152693,-23.55046
+893056873,outro,Rua Tabatinguera, Liberdade, São Paulo,22,1,1,,6,Sem mobília,1430,240,21,1710,470,01020-001,-46.6284392,-23.5522912
+893069063,apartamento,Rua Justo Azambuja, Cambuci, São Paulo,82,2,2,1,1,Sem mobília,2500,800,63,3395,79,01518-000,-46.6224988,-23.5588649
+893084264,apartamento,Rua André de Leão, Mooca, São Paulo,50,1,1,,3,Sem mobília,1200,300,436,1952,331,02857-020,-46.613404,-23.5540497
+893090065,apartamento,Rua Marina Crespi, Mooca, São Paulo,70,3,2,1,1,Mobiliado,4500,560,134,5252,232,03112-090,-46.6046214,-23.5571576
+892872035,outro,Avenida Alcântara Machado, Mooca, São Paulo,25,1,1,,1,Sem mobília,1000,0,84,1097,1507,03101-005,-46.6090352,-23.5512645
+893085183,apartamento,Rua Guarapuava, Mooca, São Paulo,52,2,1,1,4,Sem mobília,2700,365,0,3100,290,03164-150,-46.6047993,-23.5482269
+893085762,apartamento,Rua Doutor Fomm, Belém, São Paulo,50,2,1,1,7,Sem mobília,1470,460,52,2001,237,03163-030,-46.5950307,-23.5459634
+893083484,apartamento,Rua Padre Adelino, Belém, São Paulo,51,2,1,1,2,Sem mobília,2100,446,0,2573,91,03303-000,-46.593025,-23.5456889
+892942339,apartamento,Rua Olimpio Portugal, Mooca, São Paulo,54,1,1,,2,Sem mobília,1550,380,33,1974,190,03112-010,-46.6014853,-23.5563813
+893088710,outro,Rua dos Trilhos, Mooca, São Paulo,20,1,1,,,Sem mobília,1210,0,30,1256,1660,03168-009,-46.5936472,-23.5544935
+893019536,apartamento,Rua Doutor Fomm, Belém, São Paulo,50,2,1,,14,Sem mobília,1325,492,0,1834,237,03163-030,-46.5950307,-23.5459634
+893085193,casa,Rua Taioaba, Mooca, São Paulo,240,3,4,2,,Sem mobília,6600,0,485,7195,114,03170-070,-46.5920406,-23.552522
+893083048,apartamento,Rua Serra da Bocaina, Belém, São Paulo,62,2,1,1,3,Mobiliado,2598,500,69,3200,121,03174-000,-46.5903259,-23.5460897
+892870721,casa,Rua Juventina Santana, Belém, São Paulo,320,3,4,3,,Mobiliado,6654,0,234,6999,5,03171-080,-46.5896977,-23.5503187
+892994981,apartamento,Avenida Alcântara Machado, Mooca, São Paulo,32,1,1,,2,Sem mobília,1280,0,0,1297,381,03101-005,-46.6211992,-23.5519436
+893078854,casa,Rua João Boemer, Pari, São Paulo,80,3,1,1,,Sem mobília,2200,,90,2327,1280,03018-000,-46.6143532,-23.5301623
+893082353,apartamento,Avenida Rangel Pestana, Brás, São Paulo,35,1,1,1,17,Sem mobília,1720,300,45,2087,965,03001-000,-46.6249484,-23.5469444
+893090675,outro,Rua São Paulo, Liberdade, São Paulo,39,1,1,,9,Sem mobília,1400,250,0,1668,530,01513-000,-46.627926,-23.5576492
+893087600,outro,Rua Belém, Belém, São Paulo,20,1,1,,1,Sem mobília,850,75,72,1008,208,03057-010,-46.5968088,-23.5392463
+893089869,apartamento,Rua Leonardo Mota, Butantã, São Paulo,120,4,4,2,10,Sem mobília,3950,1350,292,5643,66,05586-090,-46.7268853,-23.5693545
+893083018,apartamento,Avenida Caxingui, Butantã, São Paulo,156,4,4,2,1,Mobiliado,3830,1250,392,5521,231,05579-000,-46.7130382,-23.5712918
+893085328,outro,Rua Abadia dos Dourados, Butantã, São Paulo,30,1,1,,1,Mobiliado,1200,0,0,1216,538,05586-030,-46.728727,-23.5724598
+893090420,apartamento,Praça General Araripe de Faria, Butantã, São Paulo,54,2,2,1,10,Sem mobília,2000,842,147,3015,30,05590-020,-46.730821,-23.576342
+892882481,outro,Rua Iquiririm, Butantã, São Paulo,32,1,1,,4,Sem mobília,1700,360,0,2082,338,05586-000,-46.7263853,-23.5726808
+893089483,apartamento,Rua Quitanduba, Butantã, São Paulo,78,3,2,2,2,Sem mobília,2950,815,150,3953,325,05516-030,-46.7170743,-23.5808943
+893082000,apartamento,Avenida Arruda Botelho, Alto de Pinheiros, São Paulo,113,3,3,,3,Sem mobília,4710,1700,730,7200,570,05466-000,-46.7195037,-23.5526504
+893088039,apartamento,Rua Doutor José Rodrigues Alves Sobrinho, Alto de Pinheiros, São Paulo,208,4,4,3,9,Sem mobília,15000,2000,1250,18440,150,05466-040,-46.7203596,-23.5517823
+893079549,apartamento,Avenida Rangel Pestana, Brás, São Paulo,33,1,1,1,17,Sem mobília,1700,316,77,2115,1119,03001-000,-46.6235178,-23.5464599
+893030373,apartamento,Rua Conselheiro Cotegipe, Belém, São Paulo,71,3,2,1,18,Sem mobília,2700,455,42,3232,219,03015-050,-46.5915829,-23.5376402
+893075390,apartamento,Rua Doutor Clementino, Belém, São Paulo,145,3,3,,6,Sem mobília,4500,1400,459,6417,320,03059-030,-46.5922848,-23.5400153
+892900034,apartamento,Avenida Celso Garcia, Brás, São Paulo,96,3,2,1,7,Sem mobília,3000,824,28,3891,528,03014-000,-46.605665,-23.5387942
+893076002,apartamento,Rua do Bucolismo, Brás, São Paulo,45,1,1,,13,Sem mobília,1140,220,13,1388,110,03008-040,-46.6206522,-23.5411397
+893085847,apartamento,Rua Costa Barros, Vila Califórnia, São Paulo,72,3,2,,4,Sem mobília,1470,580,93,2162,2200,03210-001,-46.5469013,-23.60172
+893087179,apartamento,Rua Costa Barros, Vila Califórnia, São Paulo,52,2,1,1,4,Sem mobília,1090,400,0,1504,1976,03210-001,-46.5486768,-23.6014039
+893089947,apartamento,Rua Iguara, Vila Alpina, São Paulo,30,1,1,,11,Sem mobília,1100,197,0,1311,675,03204-000,-46.5555753,-23.5975391
+893074803,apartamento,Rua Piratininga, Barcelona, São Caetano do Sul,67,3,1,2,8,Sem mobília,1660,800,0,2482,118,09550-160,-46.5521384,-23.6177425
+893088473,apartamento,Rua Tripui, Vila Prudente, São Paulo,34,1,1,,2,Sem mobília,1100,110,0,1224,101,03147-030,-46.565894,-23.5956987
+892947544,apartamento,Rua Luís Alardo de Menezes, Vila Califórnia, São Paulo,50,1,1,,1,Sem mobília,800,150,0,961,427,03214-030,-46.561811,-23.6087012
+892947550,apartamento,Rua Luís Alardo de Menezes, Vila Califórnia, São Paulo,45,1,1,,2,Sem mobília,720,150,0,880,427,03214-030,-46.561811,-23.6087012
+892947555,apartamento,Rua Luís Alardo de Menezes, Vila Califórnia, São Paulo,50,2,1,,2,Sem mobília,900,200,0,1112,427,03214-030,-46.561811,-23.6087012
+892947553,apartamento,Rua Luís Alardo de Menezes, Vila Califórnia, São Paulo,50,2,2,,1,Sem mobília,980,200,0,1193,427,03214-030,-46.561811,-23.6087012
+893071879,casa,Rua Paranaubis, Vila Califórnia, São Paulo,55,1,1,,,Sem mobília,850,,0,865,308,03216-010,-46.5541261,-23.6095997
+893071880,casa,Rua Paranaubis, Vila Califórnia, São Paulo,50,1,1,,,Sem mobília,800,,0,814,308,03216-010,-46.5541261,-23.6095997
+893088595,apartamento,Rua Luiz Tavares, Vila Guilherme, São Paulo,125,3,4,2,4,Mobiliado,4400,769,312,5537,300,02050-020,-46.6102438,-23.5169181
+892970497,apartamento,Rua Glicério, Liberdade, São Paulo,45,1,1,,1,Sem mobília,1055,408,0,1477,28,01514-000,-46.6275329,-23.5526362
+893089036,apartamento,Praça Antônio Prado, Centro, São Paulo,48,2,1,,5,Sem mobília,1500,200,0,1720,465,01010-010,-46.6347243,-23.5462865
+893068596,casa,Rua Redenção, Belém, São Paulo,300,5,6,,,Sem mobília,8500,0,459,9100,399,03060-010,-46.5858955,-23.5396959
+893074786,apartamento,Rua Conselheiro Cotegipe, Belém, São Paulo,71,3,2,1,9,Sem mobília,2700,600,41,3376,219,03058-000,-46.5915829,-23.5376402
+893086684,apartamento,Rua Toledo Barbosa, Belém, São Paulo,125,3,2,,7,Mobiliado,2200,650,0,2878,176,03061-000,-46.5892952,-23.542082
+893090668,apartamento,Rua Cataguás, Campo Belo, São Paulo,140,3,2,2,2,Sem mobília,2650,2080,584,5348,44,04624-060,-46.670434,-23.628047
+893087073,apartamento,Rua Xavier Gouveia, Campo Belo, São Paulo,125,3,2,2,10,Sem mobília,4900,1433,594,6990,120,04610-010,-46.6722632,-23.6285507
+893083090,apartamento,Rua Gutemberg, Campo Belo, São Paulo,70,2,1,1,9,Mobiliado,2500,750,63,3345,170,04624-030,-46.6702938,-23.6304629
+893089154,apartamento,Rua Zacarias de Gois, Campo Belo, São Paulo,74,1,1,1,1,Mobiliado,5000,730,253,6047,715,04610-000,-46.6749495,-23.6260866
+893071447,casa,Rua Capiberibe, Campo Belo, São Paulo,40,3,2,2,,Sem mobília,2410,,34,2484,34,03116-000,-46.6666103,-23.6302073
+893082844,apartamento,Rua Nhu-guaçu, Campo Belo, São Paulo,60,2,2,1,14,Sem mobília,4250,968,167,5439,65,04625-000,-46.6669087,-23.6269443
+893012706,casa,Rua José Alves de Oliveira, Belém, São Paulo,75,3,1,1,,Sem mobília,2500,0,0,2542,146,03021-240,-46.5981511,-23.5320689
+892893904,apartamento,Rua Ivaí, Tatuapé, São Paulo,131,2,3,2,6,Mobiliado,6200,950,313,7542,257,03080-010,-46.5800849,-23.532868
+892954373,casa,Rua Salim Farah Maluf, Belém, São Paulo,130,2,1,,,Sem mobília,1548,0,33,1607,34,03160-000,-46.5835657,-23.5333837
+892808366,apartamento,Avenida Álvaro Ramos, Belém, São Paulo,120,1,1,,1,Sem mobília,1580,80,0,1681,1562,03058-060,-46.5893043,-23.5389006
+893085130,outro,Rua Baependi, Tatuapé, São Paulo,20,1,1,,2,Sem mobília,1010,90,1,1114,60,03077-070,-46.5766799,-23.5294187
+893085149,outro,Rua Baependi, Tatuapé, São Paulo,20,1,1,,2,Sem mobília,1010,90,1,1114,60,03077-070,-46.5766799,-23.5294187
+893005554,casa,Rua Capitão-mor Passos, Pari, São Paulo,352,4,4,4,,Mobiliado,8600,0,479,9209,392,03024-010,-46.6149288,-23.5262727
+893084981,casa,Rua Bom Sucesso, Tatuapé, São Paulo,70,2,1,1,,Sem mobília,1490,,17,1532,1216,03305-000,-46.5763845,-23.5491205
+892848752,apartamento,Rua Azevedo Soares, Tatuapé, São Paulo,117,2,4,4,15,Sem mobília,3000,1521,711,5271,139,03178-200,-46.5753376,-23.5505485
+892905940,apartamento,Rua Demétrio Ribeiro, Tatuapé, São Paulo,273,4,4,6,26,Mobiliado,12500,2190,1245,16090,435,03332-005,-46.5746761,-23.552543
+893080621,apartamento,Rua Mamanguape, Tatuapé, São Paulo,50,2,1,1,1,Sem mobília,2195,191,84,2498,139,03304-070,-46.5788585,-23.5458141
+893079753,apartamento,Rua Azevedo Soares, Tatuapé, São Paulo,150,3,2,,9,Sem mobília,3000,1600,650,5289,63,03322-000,-46.5760707,-23.5507357
+893001968,apartamento,Rua Marechal Barbacena, Jardim Anália Franco, São Paulo,53,1,1,,11,Mobiliado,2400,485,250,3168,1108,03333-055,-46.5727288,-23.5556191
+893083874,apartamento,Rua Sebastião Barbosa, Jardim Anália Franco, São Paulo,80,2,2,2,14,Mobiliado,1320,1400,257,2994,120,03334-050,-46.5744698,-23.553502
+893088015,apartamento,Rua Azevedo Soares, Tatuapé, São Paulo,75,2,1,1,1,Sem mobília,1650,342,135,2148,809,03322-000,-46.5689021,-23.5492992
+893078125,apartamento,Rua Guarapuava, Mooca, São Paulo,51,2,1,1,5,Sem mobília,1920,640,100,2685,174,03164-150,-46.6056923,-23.5471924
+893089323,apartamento,Rua Edmundo Juventino Fuentes, Vila Ema, São Paulo,126,3,2,1,8,Sem mobília,1750,617,159,2549,180,03280-000,-46.5364379,-23.584367
+893086173,apartamento,Rua Francinópolis, Parque Residencial Oratório, São Paulo,40,2,1,,1,Sem mobília,1140,0,0,1155,40,03265-150,-46.5396723,-23.5952538
+893081919,apartamento,Rua Conde Amadeu Barbelini, Vila Ema, São Paulo,61,3,1,1,1,Sem mobília,1222,640,99,1977,227,03283-110,-46.5419533,-23.5882661
+893084980,casa,Rua Joaquim Lage, Sapopemba, São Paulo,280,3,4,2,,Sem mobília,3940,0,0,4006,306,03266-110,-46.5356231,-23.5984001
+893086093,casa,Rua Amilton Prado, Vila Formosa, São Paulo,150,3,2,1,,Sem mobília,2400,0,0,2440,,,,
+892893929,apartamento,Avenida Professor Luiz Ignácio Anhaia Mello, Vila Ema, São Paulo,65,3,1,1,3,Mobiliado,1850,510,20,2404,5001,03295-000,-46.548292,-23.5848359
+893090950,outro,Rua Medeiros Furtado, Vila Formosa, São Paulo,30,1,1,,,Sem mobília,550,0,0,557,455,03365-110,-46.5348239,-23.5718241
+893058673,casa,Rua Mossoró, Sapopemba, São Paulo,65,1,1,1,,Sem mobília,1300,0,0,1322,186,05570-776,-46.5318109,-23.5925324
+893073973,apartamento,Rua Solidônio Leite, Vila Ema, São Paulo,56,2,1,1,9,Sem mobília,1000,410,65,1488,2718,03275-000,-46.5333777,-23.5884737
+893077930,apartamento,Rua Intendência, Belém, São Paulo,38,1,1,1,4,Sem mobília,1510,300,0,1830,251,03015-010,-46.5952616,-23.5350522
+893025466,casa,Avenida Pedroso da Silveira, Pari, São Paulo,180,3,2,1,,Sem mobília,5400,,459,5941,40,03028-050,-46.6083898,-23.5289542
+893020786,casa,Rua Godói Preto, Pari, São Paulo,220,3,3,5,,Sem mobília,7500,0,0,7625,180,03018-020,-46.6099889,-23.5286282
+892835669,apartamento,Rua Catumbi, Belém, São Paulo,65,2,2,1,8,Sem mobília,4000,385,150,4586,1139,03021-000,-46.6023377,-23.5283194
+893090333,casa,Rua São Quintino, Vila Re, São Paulo,28,1,1,,,Sem mobília,650,0,32,693,38,03618-000,-46.5237649,-23.5167423
+893088563,casa,Rua Marimam, Vila Re, São Paulo,158,3,2,6,,Sem mobília,3190,,93,3336,197,03618-020,-46.5224861,-23.5162644
+893090339,apartamento,Avenida Tarumã, Cangaíba, São Paulo,52,2,1,1,3,Sem mobília,1400,450,0,1868,300,03733-000,-46.5272222,-23.510041
+893091363,casa,Rua João Francisco Bellegarde, Cangaíba, São Paulo,65,2,2,,,Sem mobília,1100,0,0,1119,102,03735-010,-46.517743,-23.5112917
+893046070,casa,Rua São Demétrio, Vila Re, São Paulo,150,2,3,2,,Sem mobília,1860,,584,2475,79,03618-010,-46.5239216,-23.5159203
+893089207,casa,Avenida Tarumã, Cangaíba, São Paulo,430,6,5,4,,Mobiliado,4800,,292,5172,104,03733-000,-46.5267186,-23.513096
+893082927,casa,Rua Sinanduva, Vila Re, São Paulo,110,2,3,,,Mobiliado,1310,390,143,1865,409,03621-010,-46.522722,-23.5190622
+893088537,apartamento,Rua Nilza, Vila Esperança, São Paulo,35,2,1,,1,Sem mobília,1400,175,38,1631,175,03651-000,-46.5206371,-23.524412
+893086827,apartamento,Rua Evans, Vila Esperança, São Paulo,60,2,1,1,7,Sem mobília,1300,750,0,2067,72,03648-020,-46.5238273,-23.5231612
+893076820,apartamento,Rua Cláudia, Vila Re, São Paulo,55,2,1,1,6,Sem mobília,1400,494,87,1999,217,03617-000,-46.5266043,-23.5201636
+893075608,outro,Rua Caetano Pinto, Mooca, São Paulo,28,1,1,,6,Sem mobília,1100,350,0,1464,220,03041-000,-46.6220089,-23.548384
+892970510,apartamento,Rua Inácio Manuel Álvares, Jardim Éster Yolanda, São Paulo,58,2,1,2,1,Sem mobília,1200,837,50,2103,80,05372-110,-46.7616858,-23.581963
+893073707,apartamento,Rua Inácio Manuel Álvares, Jardim Éster Yolanda, São Paulo,75,3,2,,9,Sem mobília,2010,820,54,2910,298,05372-110,-46.7632168,-23.5814989
+893081703,apartamento,Rua Henrique Chaves, Jardim Éster Yolanda, São Paulo,70,2,1,1,1,Mobiliado,1470,606,21,2116,291,05372-050,-46.7637418,-23.5833994
+893078244,casa,Rua Inácio Manuel Álvares - de 635/636 Ao Fim, Jardim Éster Yolanda, São Paulo,259,3,2,3,,Sem mobília,3500,0,0,3558,897,05576-100,-46.76409,-23.5810901
+893080967,casa,Rua Henrique Chaves, Jardim Éster Yolanda, São Paulo,110,2,2,2,,Mobiliado,3400,0,0,3457,324,05372-050,-46.7634413,-23.583453
+893087659,apartamento,Rua Francisco Valente, Jardim Éster Yolanda, São Paulo,67,2,2,2,11,Sem mobília,1635,731,138,2525,173,05374-110,-46.7622922,-23.5801295
+893091012,casa,Rua Galdino Francisco Borges, Jardim Éster Yolanda, São Paulo,45,1,2,,,Sem mobília,1310,0,33,1365,289,05366-010,-46.7576247,-23.5732198
+893088743,casa,Rua Doutor José de Martini, Butantã, São Paulo,120,2,3,2,,Sem mobília,2200,435,55,2727,80,05367-260,-46.7543849,-23.5778431
+893076451,apartamento,Rua Inácio Manuel Álvares, Jardim Éster Yolanda, São Paulo,65,2,2,2,3,Sem mobília,1550,700,87,2357,1000,05372-110,-46.7679704,-23.5818381
+893068609,casa,Avenida Diogo de Azevedo, Jardim Éster Yolanda, São Paulo,100,3,3,2,,Sem mobília,3839,0,15,3918,155,05376-140,-46.7657866,-23.5821846
+893083053,outro,Rua João de Carvalho, Liberdade, São Paulo,30,1,1,,2,Sem mobília,900,300,0,1212,58,01512-030,-46.6300866,-23.5536799
+893083707,outro,Rua Oscar Cintra Gordinho, Liberdade, São Paulo,25,1,1,,3,Sem mobília,1280,188,0,1485,103,01512-010,-46.6294488,-23.5533957
+893064109,apartamento,Rua Sampson, Brás, São Paulo,30,1,1,,4,Sem mobília,1120,208,0,1343,333,03013-040,-46.6105693,-23.5361374
+893086771,apartamento,Rua Antônio de Lucena, Tatuapé, São Paulo,180,4,5,,16,Sem mobília,4500,1050,584,6192,22,03407-050,-46.5517194,-23.5440011
+893055946,apartamento,Rua Comendador Gil Pinheiro, Tatuapé, São Paulo,60,3,1,1,6,Sem mobília,1703,540,22,2287,321,03406-000,-46.5455003,-23.5411552
+893085435,apartamento,Rua Maniutuba, Vila Carrão, São Paulo,48,1,1,,,Sem mobília,1000,148,150,1311,65,03411-130,-46.5484441,-23.5459814
+893090182,apartamento,Rua Carlos Silva, Tatuapé, São Paulo,68,3,2,1,3,Sem mobília,1650,560,21,2252,295,03405-040,-46.5496677,-23.537752
+893088712,casa,Rua Evangelina, Vila Carrão, São Paulo,120,3,4,2,,Sem mobília,3200,187,141,3581,631,03421-000,-46.5433595,-23.5486243
+893085167,outro,Rua Flamengo, Tatuapé, São Paulo,25,1,1,,1,Sem mobília,1021,90,19,1143,40,03404-140,-46.5514541,-23.538691
+893084912,apartamento,Rua Edgar de Sousa, Vila Aricanduva, São Paulo,63,3,1,1,1,Sem mobília,1700,630,124,2476,526,03502-010,-46.541583,-23.5367294
+893090128,apartamento,Avenida Guilherme Jorge, Vila Carrão, São Paulo,68,2,2,1,9,Sem mobília,1590,568,137,2316,928,03422-000,-46.5453318,-23.5544692
+893080125,apartamento,Rua Lucinda Gomes Barreto, Vila Carrão, São Paulo,64,3,2,,11,Sem mobília,1150,790,46,2001,264,03440-040,-46.5436119,-23.5446917
+893090623,apartamento,Rua Monsenhor Francisco de Paula, Vila Aricanduva, São Paulo,56,3,1,2,8,Sem mobília,1700,590,38,2350,275,03504-000,-46.5398964,-23.5353932
+893089155,casa,Rua Antônio Lindoro da Silva, Vila Aricanduva, São Paulo,200,3,2,1,,Sem mobília,2050,,262,2346,648,03506-000,-46.5360769,-23.5376232
+893086972,apartamento,Rua Alagoas, Higienópolis, São Paulo,250,3,2,1,2,Sem mobília,4580,1600,485,6724,509,01242-001,-46.6590138,-23.5462029
+893090040,casa,Rua Sergipe, Higienópolis, São Paulo,70,1,1,,,Sem mobília,2500,0,0,2542,755,01243-001,-46.6608422,-23.5468397
+892966327,apartamento,Rua Maranhão, Higienópolis, São Paulo,260,4,3,3,11,Sem mobília,5800,3201,909,9984,250,01240-000,-46.6550071,-23.5451598
+893034221,apartamento,Rua Dona Antônia de Queirós, Higienópolis, São Paulo,138,3,2,1,10,Sem mobília,3500,1400,250,5195,469,01307-014,-46.6542356,-23.5494275
+893087493,apartamento,Rua São Vicente de Paulo, Santa Cecília, São Paulo,70,2,1,1,5,Sem mobília,3000,1095,195,4329,650,01229-010,-46.6575407,-23.5400371
+893081394,apartamento,Rua Piauí, Higienópolis, São Paulo,360,3,4,2,3,Mobiliado,10000,4500,123,14750,816,01241-000,-46.6583693,-23.5447852
+893088583,casa,Travessa Dona Paula, Higienópolis, São Paulo,95,2,2,,,Sem mobília,4200,0,217,4487,128,01239-050,-46.660128,-23.552353
+893088564,apartamento,Travessa Dona Paula, Higienópolis, São Paulo,75,2,1,,,Sem mobília,2450,0,82,2564,119,01239-050,-46.6601106,-23.5524097
+893082635,casa,Travessa Dona Paula, Higienópolis, São Paulo,50,1,1,,,Sem mobília,1650,0,92,1770,100,01239-050,-46.6597782,-23.5520753
+893087388,apartamento,Rua Bela Cintra, Consolação, São Paulo,48,1,1,1,3,Mobiliado,3950,750,184,4935,561,01415-001,-46.6581896,-23.5533802
+893091953,apartamento,Rua Peixoto Gomide, Consolação, São Paulo,45,1,1,1,8,Sem mobília,1800,530,0,2353,281,01409-001,-46.6554571,-23.5563425
+893040951,apartamento,Rua Herculano de Freitas, Consolação, São Paulo,40,1,1,1,2,Mobiliado,1000,1200,200,2413,249,01308-020,-46.6538069,-23.5559028
+892917005,apartamento,Rua Gustavo Teixeira, Pacaembu, São Paulo,180,3,3,2,2,Mobiliado,4000,1700,509,6260,377,01236-010,-46.6689419,-23.5456112
+892882275,apartamento,Bela Cintra, Consolação, São Paulo,140,2,4,2,9,Mobiliado,4250,1550,313,6167,127,01415-906,-46.6541133,-23.5515769
+893089807,apartamento,Alameda Franca, Jardim Paulista, São Paulo,148,2,1,1,5,Mobiliado,15000,1300,213,16700,1188,01422-004,-46.6642061,-23.5611713
+892818220,apartamento,Alameda Franca, Jardim Paulista, São Paulo,40,1,1,1,1,Mobiliado,2363,938,92,3423,1645,01422-002,-46.6677161,-23.5584083
+893088274,apartamento,Alameda Franca, Jardim Paulista, São Paulo,132,2,3,1,1,Sem mobília,4880,1331,28,6301,1034,01422-010,-46.6631672,-23.562204
+893089339,apartamento,Alameda Tietê, Jardim Paulista, São Paulo,160,2,2,1,3,Sem mobília,3700,1833,415,5995,597,01417-020,-46.6683477,-23.5599606
+893090081,apartamento,Rua Doutor Melo Alves, Jardim Paulista, São Paulo,110,2,2,1,1,Sem mobília,4660,980,0,5700,530,01417-010,-46.6712835,-23.5616444
+893088094,apartamento,Rua Barão de Capanema, Jardim Paulista, São Paulo,420,5,5,,7,Sem mobília,12500,8043,2935,23640,536,01411-010,-46.667279,-23.5661536
+893087411,apartamento,Rua Bela Cintra, Jardim Paulista, São Paulo,138,3,2,1,1,Mobiliado,6000,1476,382,7935,1760,01415-001,-46.6666716,-23.5604956
+893047746,outro,R. da Consolação, Jardim Paulista, São Paulo,35,1,1,2,16,Mobiliado,2740,2300,280,5355,3555,01416-001,-46.6700911,-23.5629072
+893084282,apartamento,Rua da Consolação, Jardim Paulista, São Paulo,120,1,3,,5,Sem mobília,8000,1731,289,10120,3617,01416-001,-46.670741,-23.563223
+893080944,apartamento,Alameda Franca, Jardim Paulista, São Paulo,75,2,1,1,2,Sem mobília,3460,1100,0,4604,1560,01422-004,-46.6669222,-23.5588965
+893089862,apartamento,Rua Capote Valente, Pinheiros, São Paulo,86,2,3,1,9,Sem mobília,3200,1050,211,4502,513,05409-001,-46.6760547,-23.5573788
+893084967,apartamento,Rua da Consolação, Jardim Paulista, São Paulo,70,1,2,1,4,Sem mobília,7500,700,22,8318,3638,01416-002,-46.6713322,-23.5631822
+893089998,apartamento,Rua Oscar Freire, Pinheiros, São Paulo,80,1,2,1,11,Sem mobília,4210,600,50,4914,1967,05409-011,-46.675586,-23.5553773
+893086779,apartamento,Rua Cardoso de Almeida, Perdizes, São Paulo,105,3,2,,10,Sem mobília,3100,2080,119,5339,1165,05013-000,-46.6704859,-23.5411162
+893088450,apartamento,Avenida Higienópolis, Higienópolis, São Paulo,250,2,2,2,14,Mobiliado,8000,2900,584,11590,1048,01238-001,-46.6606176,-23.5402839
+893087381,outro,Rua Paim, Consolação, São Paulo,40,1,1,,2,Mobiliado,4000,531,109,4691,363,01306-010,-46.6512304,-23.5536786
+892957119,apartamento,Rua Maranhão, Higienópolis, São Paulo,127,2,2,,1,Mobiliado,3001,1200,317,4557,43,01240-001,-46.6532403,-23.5463072
+893086754,apartamento,Rua Frei Caneca, Consolação, São Paulo,70,2,2,1,5,Sem mobília,3200,760,230,4231,617,01307-001,-46.6530558,-23.5541166
+893089186,apartamento,Rua Santa Isabel, Santa Cecília, São Paulo,40,1,1,1,11,Sem mobília,2670,390,17,3111,272,01221-010,-46.6482303,-23.5426512
+893086334,apartamento,Rua Martim Francisco, Santa Cecília, São Paulo,100,2,2,,5,Sem mobília,3000,610,10,3659,70,01226-000,-46.6513112,-23.5380854
+892877226,outro,Rua Helvétia, Santa Cecília, São Paulo,35,1,1,1,12,Sem mobília,2227,600,94,2936,980,01215-010,-46.6494317,-23.5377438
+893088856,outro,Rua Helvétia, Santa Cecília, São Paulo,35,1,1,,14,Sem mobília,2080,600,1,2708,980,01215-010,-46.6494317,-23.5377438
+893056486,apartamento,Rua Doutor Frederico Steidel, Santa Cecília, São Paulo,109,3,2,,1,Sem mobília,2920,420,150,3527,219,01225-030,-46.6476299,-23.5394858
+893019380,apartamento,Rua Doutor Cesário Mota Júnior, Santa Cecília, São Paulo,40,1,1,,6,Mobiliado,1850,341,0,2215,284,01221-020,-46.64903,-23.544319
+893087122,outro,Largo do Arouche, Santa Cecília, São Paulo,38,1,1,,8,Sem mobília,1310,450,0,1777,197,01219-011,-46.6460819,-23.5418643
+892975040,outro,Rua Santa Isabel, Santa Cecília, São Paulo,25,1,1,,8,Sem mobília,1160,360,0,1535,72,01221-010,-46.6462173,-23.542578
+893085520,apartamento,Rua Baronesa de Itu, Santa Cecília, São Paulo,37,1,1,1,4,Mobiliado,2810,477,107,3430,88,01231-000,-46.653875,-23.5399143
+893088796,apartamento,Rua Maria Antônia, Santa Cecília, São Paulo,85,2,2,,6,Sem mobília,2550,806,0,3389,86,01222-010,-46.6495092,-23.547336
+892933840,apartamento,Rua Amaral Gurgel, Santa Cecília, São Paulo,43,1,1,,6,Mobiliado,1889,417,0,2330,481,01221-001,-46.6476743,-23.5461218
+893086355,apartamento,Rua Caio Prado, Consolação, São Paulo,50,2,2,1,9,Mobiliado,3600,630,200,4476,363,01303-001,-46.6472272,-23.5510413
+892990509,apartamento,Rua Rêgo Freitas, Santa Cecília, São Paulo,20,1,1,,6,Sem mobília,1700,330,13,2065,354,01220-010,-46.646722,-23.5449728
+893088478,apartamento,Rua do Arouche, Santa Cecília, São Paulo,45,1,1,,7,Sem mobília,1380,275,0,1673,55,01219-011,-46.6443278,-23.5429951
+893090942,apartamento,Rua Cônego Eugênio Leite, Pinheiros, São Paulo,68,2,2,1,15,Sem mobília,3210,1500,131,4882,564,05414-000,-46.6804689,-23.5639597
+893091134,apartamento,Rua Barão de Capanema, Jardim Paulista, São Paulo,125,1,3,1,8,Sem mobília,5900,1800,250,8025,98,01411-010,-46.6642567,-23.5689185
+893090174,apartamento,Rua Conselheiro Furtado, Liberdade, São Paulo,73,1,2,,3,Sem mobília,1690,800,0,2512,847,01511-000,-46.6326229,-23.5604865
+893080190,outro,Rua Oscar Cintra Gordinho, Liberdade, São Paulo,36,1,1,,7,Sem mobília,1300,358,25,1700,210,03216-050,-46.6284015,-23.5531842
+893071102,outro,Rua Conselheiro Furtado, Liberdade, São Paulo,28,1,1,1,12,Mobiliado,1800,340,100,2263,130,01511-000,-46.6333452,-23.5541654
+893082017,outro,Rua Conselheiro Furtado, Liberdade, São Paulo,25,1,1,,6,Sem mobília,1600,319,42,1982,130,01511-000,-46.6333452,-23.5541654
+892819541,apartamento,Rua Tenente Otávio Gomes, Liberdade, São Paulo,60,2,1,1,16,Sem mobília,2136,545,49,2738,343,01526-010,-46.6307336,-23.563219
+893090392,casa,Rua João Teizen Sobrinho, Jardim Santa Helena, São Paulo,438,4,2,,,Sem mobília,4730,0,767,5576,98,04785-150,-46.709591,-23.6959298
+893043524,casa,Rua Leonel Marques Bernardes, Interlagos, São Paulo,434,4,4,9,,Mobiliado,8000,,1100,9221,75,04789-050,-46.7070911,-23.7068704
+893090438,apartamento,Avenida Engenheiro José Salles, Vila Lisboa, São Paulo,73,3,2,1,14,Sem mobília,1700,655,23,2400,200,04776-100,-46.6988199,-23.6896165
+893088837,casa,Rua Aprazível, Vila Nova Cachoeirinha, São Paulo,50,1,1,,,Sem mobília,1030,0,100,1148,186,02612-170,-46.6628369,-23.4750457
+893086755,casa,Rua Aprazível, Vila Nova Cachoeirinha, São Paulo,45,1,2,1,,Sem mobília,1300,0,42,1364,184,02612-170,-46.6628687,-23.4750542
+893087930,apartamento,Avenida Ministro Petrônio Portela, Freguesia do Ó, São Paulo,81,3,2,,24,Mobiliado,3500,520,44,4109,2001,02802-120,-46.6956778,-23.4829616
+893086341,casa,Rua Aprazível, Vila Nova Cachoeirinha, São Paulo,60,1,1,,,Sem mobília,1200,0,42,1262,184,02612-170,-46.6628687,-23.4750542
+893084147,apartamento,Avenida Ministro Petrônio Portela, Freguesia do Ó, São Paulo,113,3,2,1,13,Sem mobília,1470,470,131,2090,1901,02802-120,-46.6961642,-23.4845027
+893090547,apartamento,Rua Edmundo Kirmayr, Vila Roque, São Paulo,49,2,1,1,3,Sem mobília,1200,400,0,1616,,,,
+893089354,apartamento,Rua Franklin do Amaral, Vila Roque, São Paulo,43,2,1,1,,Sem mobília,1200,596,9,1821,550,02479-000,-46.6585927,-23.4754129
+893083727,apartamento,Rua Vinte E Dois de Agosto, Vila Dionísia, São Paulo,48,2,1,1,14,Sem mobília,1400,300,100,1818,505,02617-000,-46.6583797,-23.4660953
+893056726,apartamento,Avenida Lacerda Franco, Cambuci, São Paulo,98,3,2,,8,Sem mobília,2430,740,0,3201,271,01541-070,-46.6226059,-23.5650089
+892950473,outro,Rua José Bento - Cambuci, São Paulo - Sp, Brasil,30,1,1,,1,Sem mobília,1000,120,50,1183,,,,
+893081449,apartamento,Rua Bueno de Andrade, Aclimação, São Paulo,33,1,1,,7,Sem mobília,1670,323,47,2062,674,01526-000,-46.6308943,-23.5660723
+893084710,apartamento,Rua Jaspe, Aclimação, São Paulo,64,3,2,1,4,Sem mobília,2280,1026,35,3370,42,01531-060,-46.6326824,-23.5707861
+893082571,apartamento,Rua Castro Alves, Aclimação, São Paulo,198,3,5,2,11,Mobiliado,5560,2450,871,8952,778,01532-001,-46.6347294,-23.5717173
+892839958,casa,Rua Rodrigo Cláudio, Aclimação, São Paulo,400,6,4,4,,Sem mobília,9000,0,1750,10900,361,01532-020,-46.6360635,-23.5726291
+893088492,apartamento,Rua Loureiro da Cruz, Aclimação, São Paulo,92,1,2,1,8,Sem mobília,2200,972,47,3247,354,01529-020,-46.6338247,-23.5713668
+892978683,apartamento,Rua Maracaí, Aclimação, São Paulo,333,4,5,4,9,Sem mobília,8000,4000,1873,13980,204,01534-030,-46.6267686,-23.572114
+893082866,apartamento,Rua Rodrigo Cláudio, Aclimação, São Paulo,95,3,3,2,5,Sem mobília,3000,2000,50,5089,272,01532-020,-46.6361492,-23.5719957
+893086852,apartamento,Rua Scuvero, Liberdade, São Paulo,50,2,1,1,20,Sem mobília,1760,607,300,2690,174,01527-000,-46.6265949,-23.5630478
+893086490,apartamento,Rua Almirante José Saldanha da Gama, Mandaqui, São Paulo,62,2,1,,5,Sem mobília,1200,685,59,1960,106,02415-090,-46.6321384,-23.4662746
+893081986,apartamento,Avenida Parada Pinto, Mandaqui, São Paulo,70,3,2,1,13,Sem mobília,1800,600,59,2482,3556,02611-001,-46.6378225,-23.4662383
+893067559,apartamento,Rua Professor Roger Bastide, Mandaqui, São Paulo,68,2,1,,3,Sem mobília,1300,200,0,1517,135,02422-120,-46.6351529,-23.4702436
+893084743,casa,Rua Mérope Dantas Magalhães, Mandaqui, São Paulo,150,3,2,2,,Sem mobília,1823,0,146,2000,80,02418-150,-46.6311923,-23.4708222
+893090972,casa,Rua Deputado Gouvea Franco, Mandaqui, São Paulo,60,2,1,,,Sem mobília,1350,0,75,1448,266,02422-010,-46.6360779,-23.4724748
+893088309,apartamento,Rua Judith Zumkeller, Mandaqui, São Paulo,60,2,2,1,10,Sem mobília,1610,494,0,2125,488,02422-020,-46.6342779,-23.4723419
+893056196,apartamento,Rua Bento Araújo, Tucuruvi, São Paulo,90,2,3,1,7,Sem mobília,1950,1050,84,3109,149,02345-040,-46.6158983,-23.4686283
+893078220,apartamento,Rua Isolina, Mandaqui, São Paulo,53,2,1,1,7,Sem mobília,1600,350,0,1971,297,02423-000,-46.6335708,-23.4700914
+893077687,casa,Avenida Parada Pinto, Mandaqui, São Paulo,300,3,3,8,,Sem mobília,2680,0,342,3067,3646,02611-001,-46.6371569,-23.4660054
+893081661,casa,Rua Jacarandatá, Mandaqui, São Paulo,60,2,1,,,Sem mobília,1150,0,84,1254,33,02423-005,-46.6324737,-23.4690851
+893076842,apartamento,Rua Judith Zumkeller, Mandaqui, São Paulo,77,2,1,1,13,Sem mobília,1170,587,42,1814,870,02422-020,-46.6383745,-23.473984
+893091216,apartamento,Rua José Bento, Cambuci, São Paulo,41,2,1,,10,Sem mobília,1200,345,0,1561,480,01523-030,-46.6179061,-23.5660821
+892854258,outro,Rua Tenente Otávio Gomes, Aclimação, São Paulo,35,1,1,,2,Sem mobília,900,270,25,1207,330,01526-010,-46.6309083,-23.563399
+893078226,apartamento,Rua Galvão Bueno, Liberdade, São Paulo,46,1,1,2,5,Mobiliado,1750,1300,250,3323,700,01506-000,-46.6349839,-23.5618183
+893088740,apartamento,Rua Subragi, Itaquera, São Paulo,60,2,1,1,1,Sem mobília,1110,270,0,1395,200,08223-365,-46.4684132,-23.5246213
+893085741,casa,Rua Daniel Arcioni, Vila Jacuí, São Paulo,400,5,4,,,Sem mobília,2480,0,84,2606,18,08382-670,-46.4704495,-23.5181828
+893084334,apartamento,Avenida Águia de Haia, Itaquera, São Paulo,66,2,2,1,3,Sem mobília,935,323,0,1270,2100,03694-000,-46.4737682,-23.5266901
+893080428,casa,Rua Padre Clemente Segura, Vila Jacuí, São Paulo,65,2,1,1,,Sem mobília,1100,0,100,1219,712,08051-040,-46.4697514,-23.51425
+893085867,casa,Rua Vicente Franco Ribeiro, Vila Jacuí, São Paulo,350,6,5,3,,Sem mobília,4445,,0,4519,193,08062-240,-46.4760987,-23.5140252
+893032672,casa,Rua Espelho Cristalino, Itaquera, São Paulo,216,3,3,1,,Sem mobília,2000,0,0,2034,72,08223-520,-46.4679912,-23.5212789
+893041970,casa,Rua Viola E Mel, Itaquera, São Paulo,60,2,1,,,Sem mobília,810,0,0,823,13,08223-600,-46.4693699,-23.5215287
+892971485,casa,Avenida do Imperador, Itaquera, São Paulo,33,1,1,,,Sem mobília,592,0,15,617,3396,08050-000,-46.469732,-23.5191213
+893088622,casa,Rua Júlio Rodrigues da Silva, Ponte Rasa, São Paulo,40,1,1,,,Sem mobília,770,0,10,793,132,03892-110,-46.4858201,-23.5141192
+893028177,casa,Rua Quixeramobim, Artur Alvim, São Paulo,100,3,5,5,,Sem mobília,3400,0,250,3707,54,03688-040,-46.4867352,-23.5305021
+893088678,apartamento,Rua Martiniano de Carvalho, Bela Vista, São Paulo,52,2,1,1,16,Sem mobília,3000,450,121,3610,473,01321-001,-46.6418355,-23.5629885
+893057427,apartamento,Rua Estela, Vila Mariana, São Paulo,80,2,2,,2,Sem mobília,2750,1200,17,4002,121,04011-000,-46.6419397,-23.5777336
+893083756,apartamento,Rua Paraíso, Aclimação, São Paulo,46,1,2,1,11,Sem mobília,2900,734,207,3878,667,04103-001,-46.6368593,-23.5744464
+893090157,casa,Rua Anatole France, Vila das Mercês, São Paulo,45,2,1,,,Sem mobília,1630,0,125,1782,,,,
+893090155,casa,Rua Anatole France, Vila das Mercês, São Paulo,250,3,4,2,,Mobiliado,5100,0,584,5769,125,04283-050,-46.6036147,-23.6063427
+892887868,apartamento,Rua Dois de Julho, Ipiranga, São Paulo,49,1,2,1,3,Mobiliado,2800,600,100,3536,740,04215-000,-46.5988703,-23.595977
+893089159,apartamento,Rua Clemente Pereira, Ipiranga, São Paulo,41,1,1,,1,Sem mobília,2000,412,53,2491,,,,
+893089168,apartamento,Rua Clemente Pereira, Ipiranga, São Paulo,52,2,2,,4,Sem mobília,2300,544,53,2927,526,04216-060,-46.6001304,-23.5980963
+893088294,outro,Rua Dois de Julho, Ipiranga, São Paulo,20,1,1,,1,Sem mobília,1430,0,9,1458,697,04215-000,-46.599376,-23.595623
+893089432,casa,Rua Doutor Elisio de Castro, Ipiranga, São Paulo,210,5,5,2,,Sem mobília,5500,0,308,5899,698,04277-010,-46.6090122,-23.5991149
+893090643,apartamento,Rua Gama Lobo, Ipiranga, São Paulo,120,2,2,1,9,Sem mobília,2000,1000,50,3076,1934,04269-001,-46.6119764,-23.6010295
+893083754,apartamento,Rua Alencar Araripe, Sacomã, São Paulo,48,2,1,1,14,Sem mobília,1800,517,0,2340,1145,04253-000,-46.5964405,-23.6172783
+893090448,apartamento,Rua Santa Áurea, Bosque da Saúde, São Paulo,56,2,2,1,3,Sem mobília,2100,782,62,2971,253,04282-040,-46.6104258,-23.6078275
+893086903,apartamento,Rua José Bernardo Pinto, Vila Guilherme, São Paulo,60,2,1,,2,Sem mobília,1350,200,0,1568,99,02055-000,-46.6111041,-23.5125004
+893062148,apartamento,Rua Ferreira de Oliveira, Belém, São Paulo,62,3,2,1,9,Sem mobília,2900,481,125,3543,74,03022-030,-46.6028673,-23.5252128
+893056427,casa,Rua Iturama, Pari, Jundiaí,280,4,3,4,,Sem mobília,3900,0,392,4351,174,03035-010,-46.614696,-23.523466
+893041820,casa,Rua Ite, Vila Guilherme, São Paulo,88,2,1,1,,Sem mobília,1550,0,109,1685,25,02047-080,-46.6096924,-23.5214801
+892970985,casa,Rua Mário Ybarra de Almeida, Pari, São Paulo,44,1,1,,,Mobiliado,1800,,125,1953,44,03022-020,-46.6061805,-23.5249369
+893053816,apartamento,Rua Rodovalho da Fonseca, Pari, São Paulo,65,2,2,1,7,Sem mobília,2700,590,125,3450,343,03028-030,-46.6092824,-23.5261793
+893089129,casa,Rua Coronel Rodovalho, Penha de França, São Paulo,60,2,2,1,,Sem mobília,1680,120,0,1828,75,03632-000,-46.5518455,-23.5281434
+893089123,casa,Rua Coronel Rodovalho, Penha de França, São Paulo,60,2,2,1,,Sem mobília,2400,150,125,2715,75,03632-000,-46.5518455,-23.5281434
+893089117,casa,Rua Coronel Rodovalho, Penha de França, São Paulo,40,2,1,1,,Sem mobília,1400,125,96,1645,75,03632-000,-46.5518455,-23.5281434
+892987687,casa,Rua Caquito, Penha de França, São Paulo,50,2,1,,,Sem mobília,1200,0,140,1360,264,03607-000,-46.544286,-23.520812
+893087691,apartamento,Rua Caquito, Penha de França, São Paulo,80,2,1,,1,Sem mobília,1100,115,96,1325,14,03607-000,-46.5437595,-23.5205302
+893086091,casa,Avenida Celso Garcia, Tatuapé, São Paulo,150,3,2,,,Sem mobília,1810,0,0,1840,5739,03064-000,-46.557627,-23.5307969
+893086207,apartamento,Rua Retiro, Tatuapé, São Paulo,69,3,2,,13,Sem mobília,1600,400,159,2180,145,03073-005,-46.5545217,-23.5311839
+893038697,apartamento,Rua Canindé, Canindé, São Paulo,38,1,1,,1,Sem mobília,1350,370,0,1738,83,03033-000,-46.6242569,-23.5337325
+893004637,apartamento,Avenida Interlagos, Vila Arriete, São Paulo,58,2,2,1,11,Sem mobília,2100,500,67,2694,4455,04661-300,-46.6928232,-23.686581
+893085789,apartamento,Avenida Rio Branco, Centro, São Paulo,40,1,1,,5,Sem mobília,1400,210,34,1662,125,01205-000,-46.6388801,-23.5416672
+893084979,apartamento,Rua Coronel Xavier de Toledo, Centro, São Paulo,47,2,1,,6,Mobiliado,2000,610,125,2761,71,01048-100,-46.6389143,-23.5467674
+893086298,apartamento,Rua Doutor Cesário Mota Júnior, Santa Cecília, São Paulo,58,1,1,,14,Mobiliado,1900,287,0,2212,476,01221-020,-46.6492629,-23.5460464
+892944566,apartamento,Rua Doutor Cesário Mota Júnior, Santa Cecília, São Paulo,73,2,1,1,10,Sem mobília,1868,532,67,2480,476,01221-020,-46.6492629,-23.5460464
+892996815,apartamento,Avenida Ipiranga, Centro, São Paulo,60,2,1,,4,Sem mobília,1900,350,0,2275,1147,01039-000,-46.6380803,-23.5404185
+892865958,outro,Avenida São João, Santa Cecília, São Paulo,36,1,1,,6,Sem mobília,1380,300,0,1689,1063,01211-100,-46.6437782,-23.5405613
+893088584,casa,Rua Júlio Rodrigues da Silva, Ponte Rasa, São Paulo,40,1,1,,,Sem mobília,720,0,10,742,132,03892-110,-46.4858201,-23.5141192
+893088698,casa,Rua João Antônio Andrade, Ermelino Matarazzo, São Paulo,25,1,1,,,Sem mobília,500,,10,519,29,03805-070,-46.4808759,-23.5030731
+893058680,casa,Avenida Capitão Anselmo Barcelos, Ponte Rasa, São Paulo,220,2,2,1,,Sem mobília,1800,0,0,1830,94,03874-000,-46.492039,-23.510879
+893081786,casa,Avenida São Miguel, Ponte Rasa, São Paulo,60,2,1,,,Sem mobília,1040,0,100,1158,5260,03883-000,-46.4825456,-23.5073629
+893087200,casa,Rua Japaraiquara, Ponte Rasa, São Paulo,139,1,1,5,,Sem mobília,1500,0,234,1759,205,03873-000,-46.4983037,-23.511122
+893024515,casa,Rua Sebastião Muniz, Ponte Rasa, São Paulo,67,2,1,2,,Sem mobília,1600,,42,1667,248,03894-100,-46.4815735,-23.5151355
+893021117,casa,Rua João Cândido de Lima, Ponte Rasa, São Paulo,230,4,3,2,,Sem mobília,2900,0,169,3113,563,03678-020,-46.4855848,-23.5165295
+893085039,outro,Rua das Palmeiras, Santa Cecília, São Paulo,33,1,1,,5,Sem mobília,2900,675,0,3612,410,01226-011,-46.6525666,-23.5361964
+893079572,apartamento,Avenida Angélica, Higienópolis, São Paulo,150,4,2,1,1,Sem mobília,3500,1600,334,5479,1071,01227-100,-46.6558803,-23.5421547
+893086667,apartamento,Avenida Angélica, Santa Cecília, São Paulo,185,3,2,1,8,Sem mobília,2490,1684,284,4490,896,01228-000,-46.6557867,-23.540705
+892921333,apartamento,Avenida Angélica, Santa Cecília, São Paulo,50,1,1,,12,Sem mobília,1664,700,0,2372,871,01228-000,-46.655413,-23.5405458
+893049981,apartamento,Largo Santa Cecília, Santa Cecília, São Paulo,110,2,1,,10,Mobiliado,2480,450,0,2962,158,01225-010,-46.6498716,-23.5389974
+893088597,apartamento,Rua Baronesa de Itu, Santa Cecília, São Paulo,320,4,4,2,1,Sem mobília,4460,4500,0,9017,788,01231-000,-46.6604401,-23.5378927
+893085821,apartamento,Rua Conselheiro Brotero, Santa Cecília, São Paulo,96,2,2,2,11,Mobiliado,6850,1770,500,9207,1211,01232-011,-46.661008,-23.5369901
+893086474,apartamento,Rua Doutor José Manoel, Santa Cecília, São Paulo,210,3,4,3,9,Sem mobília,5750,2900,1267,9990,50,01232-020,-46.6617191,-23.5373183
+893080894,apartamento,Rua São Vicente de Paulo, Santa Cecília, São Paulo,42,1,1,1,7,Sem mobília,1570,1015,0,2605,124,01229-010,-46.6555247,-23.5356828
+893090201,apartamento,Rua Doutor Emílio Ribas, Perdizes, São Paulo,190,3,2,2,4,Sem mobília,6000,1540,167,7784,49,05006-020,-46.6646792,-23.5362918
+893087543,apartamento,Rua Bartira, Perdizes, São Paulo,200,3,3,2,2,Sem mobília,3830,1690,412,5981,208,05009-000,-46.6703753,-23.5394037
+892907275,casa,Travessa Manuel Fraga, Vila Mazzei, São Paulo,138,3,3,2,,Sem mobília,2200,0,77,2311,87,02317-250,-46.5916604,-23.4587447
+893089316,casa,Rua Américo Lôbo, Ermelino Matarazzo, São Paulo,80,2,2,1,,Sem mobília,1300,0,0,1322,171,03807-240,-46.4710686,-23.4987511
+893089673,apartamento,Rua Lino Petenoni, Ermelino Matarazzo, São Paulo,52,2,1,1,6,Sem mobília,1100,427,46,1587,340,03808-120,-46.4764147,-23.4937864
+893086898,casa,R. Antônio Pereira Simões, 256 - Vila Paranagua, São Paulo - Sp,120,4,3,4,,Sem mobília,2000,,305,2339,,,-256.0,
+893087981,casa,Rua Abel Tavares, Vila Jacuí, São Paulo,192,3,2,1,,Sem mobília,1800,0,84,1914,348,03810-110,-46.4680585,-23.4959713
+893087875,casa,Rua Miguel Rachid, Ermelino Matarazzo, São Paulo,60,2,1,,,Sem mobília,1100,,0,1141,250,03808-130,-46.4748896,-23.4931283
+893087886,casa,Rua Miguel Rachid, Ermelino Matarazzo, São Paulo,90,2,1,,,Sem mobília,1250,,22,1293,250,03808-130,-46.4748896,-23.4931283
+893080447,casa,Rua Frei Fidelis Mota, 597 - Parque Cruzeiro do Sul, São Paulo - Sp,70,2,1,,,Sem mobília,1000,,60,1077,,,-597.0,
+893080429,casa,Rua Frei Fidelis Mota, 597 - Parque Cruzeiro do Sul, São Paulo - Sp,100,3,2,1,,Sem mobília,1500,,80,1605,,,-597.0,
+893080623,apartamento,Rua Aiuba, Vila Jacuí, São Paulo,50,2,1,1,1,Sem mobília,880,360,0,1252,3,08070-100,-46.4641542,-23.4915424
+893078958,apartamento,Rua Frei Fidelis Mota, Vila Jacuí, São Paulo,70,3,2,1,2,Sem mobília,1800,,0,1823,490,08070-130,-46.4634184,-23.4939608
+893083976,casa,Rua Calídice, Vila Jacuí, São Paulo,320,3,4,4,,Sem mobília,4000,,226,4293,191,08070-010,-46.4665901,-23.4977664
+893090437,apartamento,Rua Rio Verde, Freguesia do Ó, São Paulo,109,3,2,,8,Sem mobília,3077,619,0,3735,801,02934-001,-46.7034512,-23.4865836
+893035720,casa,Rua Augusto de Macedo Costa, Freguesia do Ó, São Paulo,125,3,2,2,,Sem mobília,1556,0,5,1587,91,02802-060,-46.6961165,-23.4876848
+893086029,apartamento,Rua Juan Arfe, Freguesia do Ó, São Paulo,48,2,1,1,7,Sem mobília,1200,480,0,1696,34,02804-080,-46.6979658,-23.4857538
+893075689,apartamento,Avenida Ministro Petrônio Portela, Freguesia do Ó, São Paulo,72,3,2,1,19,Sem mobília,2450,410,35,2927,1901,02802-120,-46.695797,-23.4839659
+893060922,casa,Rua Augusto de Macedo Costa, Freguesia do Ó, São Paulo,136,3,2,2,,Sem mobília,2820,,125,2992,25,02802-060,-46.696173,-23.4882471
+893060931,casa,Rua Augusto de Macedo Costa, Freguesia do Ó, São Paulo,136,3,2,2,,Sem mobília,2820,,125,2992,29,02802-060,-46.6961397,-23.4882193
+893078840,apartamento,Rua Tabatinguera, Liberdade, São Paulo,34,1,1,,4,Sem mobília,1250,350,0,1616,340,03216-050,-46.629622,-23.5526566
+892791009,outro,Viaduto Dona Paulina, Centro, São Paulo,30,1,1,,8,Mobiliado,1200,400,50,1666,34,01501-020,-46.6357049,-23.5518313
+893065235,casa,Avenida Silvio Siumbata, Interlagos, São Paulo,375,4,5,3,,Sem mobília,5000,0,0,5076,565,04789-010,-46.705714,-23.7068827
