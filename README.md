@@ -29,7 +29,7 @@ First step is check the  proximity of the places in relation to the apartment, t
 ![alt text](https://github.com/Guilhermegcz/urbandata/blob/master/images/mapa-google.gif)  
 
 ## model
-![alt text](https://github.com/Guilhermegcz/urbandata/blob/master/images/regressor-model.jpg)
+![alt text](https://github.com/Guilhermegcz/urbandata/blob/master/images/regressor-model2.jpg)
 
 
 ## insights and results
@@ -37,7 +37,7 @@ relationship between apartments in different neighborhoods
 ![alt text](https://github.com/Guilhermegcz/urbandata/blob/master/images/analysis-correlation.jpg)
 
 
-![alt text](https://github.com/Guilhermegcz/urbandata/blob/master/images/analysis-correlation-df.jpg)
+![alt text](https://github.com/Guilhermegcz/urbandata/blob/master/images/analysis-correlation-df2.jpg)
 
 
 simulation including new variables
