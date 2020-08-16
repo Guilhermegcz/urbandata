@@ -3,4 +3,6 @@ config_spot.txt
 .ipynb_checkpoints
 chromedriver.exe
 APRESENTACAO - PROJETO5.pdf
-images
+*.DXF
+*.dwg
+maps/
