@@ -5,8 +5,8 @@
 The project born from the desire to use data for urban analysis. The main guide is comparing commercial places and everything around an apartment with its price, to rent or to buy.
 
 ## tools
-data: Python, Jupyter Notebook, Pandas, BeautifulSoup, Selenium, Scikit-learn, Lightgbm, API places   
-images: Autocad, Photoshop, Indesign  
+- data: Python, Jupyter Notebook, Pandas, BeautifulSoup, Selenium, Scikit-learn, Lightgbm, API places   
+- images: Autocad, Photoshop, Indesign  
 
 ## data source
 - buying apartments: Loft - https://loft.com.br/  
